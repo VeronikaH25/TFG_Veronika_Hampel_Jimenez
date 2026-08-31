@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Aquí definimos nuestra paleta del "Gym Serio" */
+  --color-gymDark: #0a0a0a;
+  --color-gymCard: #171717;
+  --color-gymNeon: #ccff00;
+}
+
+body {
+  background-color: var(--color-gymDark);
+  color: white;
+}

@@ -1,0 +1,6289 @@
+[{
+  "_id": {
+    "$oid": "6a0c5fc2cea2ede5c19bcba2"
+  },
+  "perfil_usuario": {
+    "edad": 55,
+    "peso": 83.8,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Planchas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl de martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:04:02.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5fd1cea2ede5c19bcba5"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 79.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:04:17.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ff7cea2ede5c19bcba8"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 103.3,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_4] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:2)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:04:55.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6012cea2ede5c19bcbab"
+  },
+  "perfil_usuario": {
+    "edad": 56,
+    "peso": 93.5,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 3-5)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:05:22.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6026cea2ede5c19bcbae"
+  },
+  "perfil_usuario": {
+    "edad": 29,
+    "peso": 98.8,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:05:42.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6049cea2ede5c19bcbb1"
+  },
+  "perfil_usuario": {
+    "edad": 44,
+    "peso": 106.8,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:06:17.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6064cea2ede5c19bcbb4"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 77.7,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda', 'Biceps'] pero IA metió 'Hombros' (Face pull)",
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Russian twists': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:06:44.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c607fcea2ede5c19bcbb7"
+  },
+  "perfil_usuario": {
+    "edad": 29,
+    "peso": 78,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_3] 'Plancha': Series mal (IA puso 3, KNN exigía 5)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 3-5)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:07:11.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60a9cea2ede5c19bcbba"
+  },
+  "perfil_usuario": {
+    "edad": 51,
+    "peso": 80.5,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:07:53.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60e4cea2ede5c19bcbbd"
+  },
+  "perfil_usuario": {
+    "edad": 28,
+    "peso": 72.1,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en paralelas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:08:52.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60f4cea2ede5c19bcbc0"
+  },
+  "perfil_usuario": {
+    "edad": 58,
+    "peso": 74.8,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:09:08.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6118cea2ede5c19bcbc3"
+  },
+  "perfil_usuario": {
+    "edad": 47,
+    "peso": 96.4,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 20, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:09:44.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c613dcea2ede5c19bcbc6"
+  },
+  "perfil_usuario": {
+    "edad": 55,
+    "peso": 81.4,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:10:21.964Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c614acea2ede5c19bcbc9"
+  },
+  "perfil_usuario": {
+    "edad": 22,
+    "peso": 97.7,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:10:34.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c616fcea2ede5c19bcbcc"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 63.7,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] 'Press de banca': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press de banca': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_1] 'Press inclinado con mancuernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press inclinado con mancuernas': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_1] 'Fondos en paralelas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Fondos en paralelas': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_2] 'Dominadas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Dominadas': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_2] 'Remo con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Remo con barra': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_2] 'Peso muerto': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Peso muerto': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_3] 'Sentadillas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Sentadillas': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_3] 'Prensa de piernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Prensa de piernas': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_3] 'Peso muerto rumano': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Peso muerto rumano': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_3] 'Elevaciones de talón': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de talón': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_4] 'Press militar': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Press militar': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones laterales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones laterales': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones frontales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones frontales': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Curl de bíceps con barra': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_5] 'Extensión de tríceps por encima de la cabeza': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps por encima de la cabeza': Reps mal (IA puso 5, KNN exigía 8-12)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Reps mal (IA puso 5, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] 'Press de banca': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press de banca': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Press inclinado con mancuernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press inclinado con mancuernas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Fondos en paralelas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Fondos en paralelas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Extensión de tríceps en polea alta': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Extensión de tríceps en polea alta': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Press francés': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press francés': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] 'Dominadas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Dominadas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Remo con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Remo con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Peso muerto': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Peso muerto': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Curl de bíceps con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Curl de bíceps con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Curl martillo': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Curl martillo': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Sentadillas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Sentadillas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Prensa de piernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Prensa de piernas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Peso muerto rumano': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Peso muerto rumano': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Elevaciones de talón': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de talón': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Press militar': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Press militar': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones laterales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones laterales': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones frontales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones frontales': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Curl de bíceps con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Extensión de tríceps por encima de la cabeza': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps por encima de la cabeza': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Reps mal (IA puso 3, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] 'Press de banca': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press de banca': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Press inclinado con mancuernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press inclinado con mancuernas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Fondos en paralelas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Fondos en paralelas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Extensión de tríceps en polea alta': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Extensión de tríceps en polea alta': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Press francés': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press francés': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] 'Dominadas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Dominadas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Remo con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Remo con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Peso muerto': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Peso muerto': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Curl de bíceps con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Curl de bíceps con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Curl martillo': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Curl martillo': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Sentadillas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Sentadillas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Prensa de piernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Prensa de piernas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Peso muerto rumano': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Peso muerto rumano': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Elevaciones de talón': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de talón': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Press militar': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Press militar': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones laterales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones laterales': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones frontales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones frontales': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Curl de bíceps con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Extensión de tríceps por encima de la cabeza': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps por encima de la cabeza': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Reps mal (IA puso 3, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:11:11.037Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c617ccea2ede5c19bcbcf"
+  },
+  "perfil_usuario": {
+    "edad": 62,
+    "peso": 70.9,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:11:24.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61a0cea2ede5c19bcbd2"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 56,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Jalón de tríceps': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl Martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevaciones de Talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de Talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Planchas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunch Abdominal': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunch Abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl con Barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl de Concentración': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de Tríceps en Polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos entre Bancos': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:12:00.814Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61c0cea2ede5c19bcbd5"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 55.5,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:12:32.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61d9cea2ede5c19bcbd8"
+  },
+  "perfil_usuario": {
+    "edad": 30,
+    "peso": 58.1,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:12:57.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61fdcea2ede5c19bcbdb"
+  },
+  "perfil_usuario": {
+    "edad": 29,
+    "peso": 70.8,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_4] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:13:33.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c620ecea2ede5c19bcbde"
+  },
+  "perfil_usuario": {
+    "edad": 48,
+    "peso": 88.7,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:13:50.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c621dcea2ede5c19bcbe1"
+  },
+  "perfil_usuario": {
+    "edad": 37,
+    "peso": 104.6,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:14:05.523Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6228cea2ede5c19bcbe4"
+  },
+  "perfil_usuario": {
+    "edad": 60,
+    "peso": 86.5,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:14:16.759Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6238cea2ede5c19bcbe7"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 86.7,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:14:32.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6258cea2ede5c19bcbea"
+  },
+  "perfil_usuario": {
+    "edad": 34,
+    "peso": 52,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda', 'Hombros', 'Biceps'] pero IA metió 'Piernas' (Peso muerto rumano)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:15:04.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6266cea2ede5c19bcbed"
+  },
+  "perfil_usuario": {
+    "edad": 65,
+    "peso": 77.2,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:15:18.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6287cea2ede5c19bcbf0"
+  },
+  "perfil_usuario": {
+    "edad": 56,
+    "peso": 79.5,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la rutina es demasiado avanzada para un nivel principiante. Se recomienda ajustar la cantidad de series y repeticiones, así como considerar ejercicios más básicos para evitar lesiones."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:15:51.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62a5cea2ede5c19bcbf3"
+  },
+  "perfil_usuario": {
+    "edad": 27,
+    "peso": 104.8,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Levantamiento de piernas': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:16:21.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62b5cea2ede5c19bcbf6"
+  },
+  "perfil_usuario": {
+    "edad": 37,
+    "peso": 100.5,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:16:37.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62c7cea2ede5c19bcbf9"
+  },
+  "perfil_usuario": {
+    "edad": 30,
+    "peso": 65,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:16:55.656Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62e8cea2ede5c19bcbfc"
+  },
+  "perfil_usuario": {
+    "edad": 45,
+    "peso": 107.3,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:17:28.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6303cea2ede5c19bcbff"
+  },
+  "perfil_usuario": {
+    "edad": 37,
+    "peso": 77,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_4] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:17:55.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6314cea2ede5c19bcc02"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 78.4,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:18:12.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6326cea2ede5c19bcc05"
+  },
+  "perfil_usuario": {
+    "edad": 41,
+    "peso": 65.2,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:18:30.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6337cea2ede5c19bcc08"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 106.2,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:18:47.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6355cea2ede5c19bcc0b"
+  },
+  "perfil_usuario": {
+    "edad": 48,
+    "peso": 63.7,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:19:17.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6389cea2ede5c19bcc0e"
+  },
+  "perfil_usuario": {
+    "edad": 41,
+    "peso": 61.6,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press de banca con barra)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:20:09.564Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63aacea2ede5c19bcc11"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 98.7,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:20:42.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63b8cea2ede5c19bcc14"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 103.6,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:20:56.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63c9cea2ede5c19bcc17"
+  },
+  "perfil_usuario": {
+    "edad": 27,
+    "peso": 55.6,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:21:13.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6400cea2ede5c19bcc1a"
+  },
+  "perfil_usuario": {
+    "edad": 33,
+    "peso": 84.9,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press inclinado con mancuernas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press inclinado con mancuernas)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press inclinado con mancuernas)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:22:08.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c641ccea2ede5c19bcc1d"
+  },
+  "perfil_usuario": {
+    "edad": 30,
+    "peso": 92.5,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] 'Press de banca': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press de banca': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Press inclinado': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press inclinado': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Fondos': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Fondos': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Extensiones de tríceps en polea': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Extensiones de tríceps en polea': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_1] 'Press francés': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_1] 'Press francés': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Peso muerto': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Peso muerto': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Dominadas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Dominadas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Remo con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Remo con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Curl de bíceps con barra': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Curl de bíceps con barra': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_2] 'Curl de martillo': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_2] 'Curl de martillo': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Sentadillas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Sentadillas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Prensa de piernas': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Prensa de piernas': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Peso muerto rumano': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Peso muerto rumano': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Press militar': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Press militar': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones laterales': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Elevaciones laterales': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Pájaros': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Pájaros': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 3, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Series mal (IA puso 5, KNN exigía 4)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 3, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:22:36.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c644ccea2ede5c19bcc20"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 84.4,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Los ejercicios desconocidos en el día 1 son adecuados para trabajar pecho y tríceps, pero no son apropiados para un principiante debido a su complejidad y riesgo de lesión. En el día 2, el 'Remo con mancuerna' y 'Elevación lateral de mancuerna' son válidos, pero 'Puente con mancuerna' no es un ejercicio comúnmente reconocido. En el día 3, 'Sentadillas' y 'Peso muerto con piernas rígidas' son ejercicios avanzados para un principiante. En el día 4, los ejercicios son adecuados, pero la combinación de 'Pájaros con mancuerna' no se alinea con los grupos musculares esperados. En general, la rutina presenta ejercicios que no son seguros o apropiados para el nivel principiante."
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:23:24.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c645dcea2ede5c19bcc23"
+  },
+  "perfil_usuario": {
+    "edad": 35,
+    "peso": 77.8,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:23:41.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c648ccea2ede5c19bcc26"
+  },
+  "perfil_usuario": {
+    "edad": 50,
+    "peso": 61.5,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Hombros' (Press militar con mancuernas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:24:28.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c649ccea2ede5c19bcc29"
+  },
+  "perfil_usuario": {
+    "edad": 56,
+    "peso": 77.3,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:24:44.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64c3cea2ede5c19bcc2c"
+  },
+  "perfil_usuario": {
+    "edad": 44,
+    "peso": 64.2,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda', 'Biceps'] pero IA metió 'Hombros' (Face Pull)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 15-20)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:25:23.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64d2cea2ede5c19bcc2f"
+  },
+  "perfil_usuario": {
+    "edad": 49,
+    "peso": 81.1,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:25:38.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64e1cea2ede5c19bcc32"
+  },
+  "perfil_usuario": {
+    "edad": 51,
+    "peso": 61.7,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:25:53.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64f2cea2ede5c19bcc35"
+  },
+  "perfil_usuario": {
+    "edad": 23,
+    "peso": 95.8,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:26:10.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6500cea2ede5c19bcc38"
+  },
+  "perfil_usuario": {
+    "edad": 40,
+    "peso": 104.4,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:26:24.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6510cea2ede5c19bcc3b"
+  },
+  "perfil_usuario": {
+    "edad": 25,
+    "peso": 90.8,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:26:40.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6520cea2ede5c19bcc3e"
+  },
+  "perfil_usuario": {
+    "edad": 63,
+    "peso": 93.1,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:26:56.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6543cea2ede5c19bcc41"
+  },
+  "perfil_usuario": {
+    "edad": 50,
+    "peso": 85,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:27:31.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6554cea2ede5c19bcc44"
+  },
+  "perfil_usuario": {
+    "edad": 29,
+    "peso": 101.5,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:27:48.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c657acea2ede5c19bcc47"
+  },
+  "perfil_usuario": {
+    "edad": 53,
+    "peso": 95.3,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de gemelos': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de gemelos': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] 'Elevación de gemelos': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de gemelos': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha lateral': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha lateral': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Plancha lateral': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:28:26.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6587cea2ede5c19bcc4a"
+  },
+  "perfil_usuario": {
+    "edad": 55,
+    "peso": 108.7,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:28:39.059Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6596cea2ede5c19bcc4d"
+  },
+  "perfil_usuario": {
+    "edad": 58,
+    "peso": 105.5,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:28:54.473Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65b3cea2ede5c19bcc50"
+  },
+  "perfil_usuario": {
+    "edad": 40,
+    "peso": 97.3,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:29:23.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65eecea2ede5c19bcc53"
+  },
+  "perfil_usuario": {
+    "edad": 20,
+    "peso": 81.3,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Los ejercicios desconocidos como 'Flexiones de brazos', 'Extensiones de tríceps en polea alta' y 'Patadas de tríceps' son válidos y trabajan los grupos musculares de Pecho y Tríceps. Sin embargo, 'Jalones en polea', 'Curl de bíceps con barra' y 'Curl de bíceps concentrado' no son adecuados para un nivel principiante, ya que requieren una técnica más avanzada. Además, 'Sentadillas con barra', 'Elevación de talones de pie' y 'Elevación de talones sentado' son ejercicios que pueden ser peligrosos para principiantes si no se realizan con la técnica adecuada. Por último, 'Press militar', 'Elevaciones laterales', 'Elevaciones frontales', 'Planchas' y 'Crunches' también son ejercicios que pueden ser complicados para principiantes sin la supervisión adecuada. Por lo tanto, la rutina no es adecuada para el nivel principiante."
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la cantidad de series y repeticiones (5 series de 3 repeticiones) es demasiado baja para un entrenamiento efectivo, incluso para principiantes. Además, algunos ejercicios como 'Planchas' y 'Levantamiento de piernas' no son adecuados para el día de 'Core' y 'Hombros' respectivamente."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:30:22.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65fccea2ede5c19bcc56"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 70.4,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:30:36.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6620cea2ede5c19bcc59"
+  },
+  "perfil_usuario": {
+    "edad": 41,
+    "peso": 101.5,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:31:12.961Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6630cea2ede5c19bcc5c"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 83.9,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:31:28.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6658cea2ede5c19bcc5f"
+  },
+  "perfil_usuario": {
+    "edad": 63,
+    "peso": 76.2,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl de martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps con mancuerna': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:32:08.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6678cea2ede5c19bcc62"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 72.5,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la rutina incluye ejercicios que no son apropiados para un nivel principiante, como el 'Press de banca' y 'Fondos en paralelas', que requieren una técnica avanzada y pueden ser peligrosos sin supervisión adecuada."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:32:40.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6688cea2ede5c19bcc65"
+  },
+  "perfil_usuario": {
+    "edad": 63,
+    "peso": 77.4,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:32:56.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66a4cea2ede5c19bcc68"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 53.2,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:33:24.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66c4cea2ede5c19bcc6b"
+  },
+  "perfil_usuario": {
+    "edad": 45,
+    "peso": 91.9,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Elevación de piernas': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:33:56.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66d2cea2ede5c19bcc6e"
+  },
+  "perfil_usuario": {
+    "edad": 40,
+    "peso": 89.4,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:34:10.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66e3cea2ede5c19bcc71"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 67.9,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:34:27.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66f4cea2ede5c19bcc74"
+  },
+  "perfil_usuario": {
+    "edad": 43,
+    "peso": 99.1,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:34:44.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6706cea2ede5c19bcc77"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 106.6,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:35:02.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6717cea2ede5c19bcc7a"
+  },
+  "perfil_usuario": {
+    "edad": 65,
+    "peso": 78.8,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:35:19.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6749cea2ede5c19bcc7d"
+  },
+  "perfil_usuario": {
+    "edad": 31,
+    "peso": 57.1,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:36:09.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6773cea2ede5c19bcc80"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 87.2,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos 'Fondos en paralelas', 'Aperturas con mancuernas', 'Extensiones de tríceps sobre la cabeza' y 'Jalones de tríceps' son válidos para trabajar pecho y tríceps, pero no son adecuados para un nivel principiante debido a su complejidad y requerimiento de técnica. Además, 'Pull-over con mancuerna', 'Curl de bíceps con barra' y 'Curl martillo con mancuernas' son ejercicios que pueden ser complicados para principiantes y no se recomienda su inclusión. En el día 3, 'Sentadillas con barra' y 'Peso muerto con piernas rígidas' son ejercicios avanzados que no son apropiados para principiantes. En el día 4, 'Press militar' y 'Elevaciones laterales' también son ejercicios que requieren una técnica adecuada y no son recomendables para principiantes. Por lo tanto, la rutina no es adecuada para el nivel principiante."
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_4] 'Plancha': Reps mal (IA puso 20, KNN exigía 3-5)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 20, KNN exigía 3-5)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:36:51.088Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6784cea2ede5c19bcc83"
+  },
+  "perfil_usuario": {
+    "edad": 61,
+    "peso": 54,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:37:08.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6796cea2ede5c19bcc86"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 65.7,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:37:26.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67abcea2ede5c19bcc89"
+  },
+  "perfil_usuario": {
+    "edad": 27,
+    "peso": 101.9,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Planchas': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:37:47.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67becea2ede5c19bcc8c"
+  },
+  "perfil_usuario": {
+    "edad": 58,
+    "peso": 100.8,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:38:06.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67e6cea2ede5c19bcc8f"
+  },
+  "perfil_usuario": {
+    "edad": 26,
+    "peso": 65.1,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en bancos': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Abdominales en banco inclinado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:38:46.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67f3cea2ede5c19bcc92"
+  },
+  "perfil_usuario": {
+    "edad": 65,
+    "peso": 95.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:38:59.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6830cea2ede5c19bcc95"
+  },
+  "perfil_usuario": {
+    "edad": 47,
+    "peso": 87.3,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:40:00.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c684dcea2ede5c19bcc98"
+  },
+  "perfil_usuario": {
+    "edad": 22,
+    "peso": 66.8,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos en el día 1 son válidos y trabajan los grupos musculares de pecho y tríceps. Sin embargo, en el día 2, los ejercicios desconocidos incluyen 'Peso muerto', 'Curl de bíceps', 'Elevaciones laterales' y 'Press militar', que son adecuados para un nivel intermedio y no son apropiados para principiantes. En el día 3, los ejercicios desconocidos también son válidos, pero la combinación de ejercicios en el día 2 no es adecuada para el nivel principiante, lo que lleva a una alucinación grave."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:40:29.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c685dcea2ede5c19bcc9b"
+  },
+  "perfil_usuario": {
+    "edad": 60,
+    "peso": 71.2,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:40:45.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6888cea2ede5c19bcc9e"
+  },
+  "perfil_usuario": {
+    "edad": 37,
+    "peso": 107.9,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:41:28.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c68bccea2ede5c19bcca1"
+  },
+  "perfil_usuario": {
+    "edad": 23,
+    "peso": 98.6,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de gemelos': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de gemelos': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 20, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl de bíceps martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:42:20.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c68e4cea2ede5c19bcca4"
+  },
+  "perfil_usuario": {
+    "edad": 18,
+    "peso": 62.6,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:43:00.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c690ccea2ede5c19bcca7"
+  },
+  "perfil_usuario": {
+    "edad": 22,
+    "peso": 101.2,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:43:40.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6933cea2ede5c19bccaa"
+  },
+  "perfil_usuario": {
+    "edad": 45,
+    "peso": 90.9,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press de banca con barra)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:44:19.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6965cea2ede5c19bccad"
+  },
+  "perfil_usuario": {
+    "edad": 63,
+    "peso": 93.9,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_3] 'Abdominales': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 3-5)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Hombros' (Face pull)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:45:09.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6976cea2ede5c19bccb0"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 55.2,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:45:26.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c698dcea2ede5c19bccb3"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 81,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:45:49.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69b5cea2ede5c19bccb6"
+  },
+  "perfil_usuario": {
+    "edad": 18,
+    "peso": 67.9,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda', 'Biceps'] pero IA metió 'Hombros' (Face pull)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:46:29.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69c8cea2ede5c19bccb9"
+  },
+  "perfil_usuario": {
+    "edad": 25,
+    "peso": 55.2,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:46:48.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69ffcea2ede5c19bccbc"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 66.9,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:47:43.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a1dcea2ede5c19bccbf"
+  },
+  "perfil_usuario": {
+    "edad": 32,
+    "peso": 76,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:48:13.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a59cea2ede5c19bccc2"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 69.4,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Piernas' (Peso muerto rumano)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:49:13.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a68cea2ede5c19bccc5"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 79.3,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:49:28.272Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a77cea2ede5c19bccc8"
+  },
+  "perfil_usuario": {
+    "edad": 55,
+    "peso": 75.1,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:49:43.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a90cea2ede5c19bcccb"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 80.7,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 15, KNN exigía 3-5)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:50:08.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ac5cea2ede5c19bccce"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 72.5,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero son inadecuados para un nivel principiante. Ejercicios como 'Fondos en paralelas' y 'Dominadas' pueden ser demasiado avanzados para principiantes, lo que puede llevar a lesiones."
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la inclusión de ejercicios como 'Dominadas asistidas' y 'Press militar con mancuernas' puede ser demasiado avanzada para un nivel principiante. Se recomienda ajustar la rutina para que sea más accesible."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:51:01.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ad5cea2ede5c19bccd1"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 66.3,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:51:17.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6af5cea2ede5c19bccd4"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 90.6,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones de piernas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Elevaciones de piernas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:51:49.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b1bcea2ede5c19bccd7"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 54.4,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_3] 'Planchas': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 3-5)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:52:27.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b3ecea2ede5c19bccda"
+  },
+  "perfil_usuario": {
+    "edad": 46,
+    "peso": 50.2,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] 'Curl de bíceps con mancuernas': Series mal (IA puso 2, KNN exigía 3)",
+        "[dia_2] 'Curl martillo': Series mal (IA puso 2, KNN exigía 3)",
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 3)",
+        "[dia_3] 'Elevación de pantorrillas': Series mal (IA puso 2, KNN exigía 3)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 3)",
+        "[dia_4] 'Crunch abdominal': Series mal (IA puso 2, KNN exigía 3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:53:02.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b4bcea2ede5c19bccdd"
+  },
+  "perfil_usuario": {
+    "edad": 20,
+    "peso": 66.5,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:53:15.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b6acea2ede5c19bcce0"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 60.2,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Gemelos en prensa': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:53:46.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b85cea2ede5c19bcce3"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 86.3,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:54:13.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b99cea2ede5c19bcce6"
+  },
+  "perfil_usuario": {
+    "edad": 45,
+    "peso": 99.8,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:54:33.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6bbfcea2ede5c19bcce9"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 77.3,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:55:11.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6bdfcea2ede5c19bccec"
+  },
+  "perfil_usuario": {
+    "edad": 28,
+    "peso": 103.6,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:55:43.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c0acea2ede5c19bccef"
+  },
+  "perfil_usuario": {
+    "edad": 41,
+    "peso": 57.9,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de piernas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de piernas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con mancuernas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl concentrado': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de piernas en colchoneta': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de piernas en colchoneta': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:56:26.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c28cea2ede5c19bccf2"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 53,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:56:56.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c58cea2ede5c19bccf5"
+  },
+  "perfil_usuario": {
+    "edad": 45,
+    "peso": 72.2,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la rutina es demasiado avanzada para un nivel principiante. Se recomienda ajustar las series y repeticiones o elegir ejercicios más adecuados para principiantes."
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Los ejercicios desconocidos 'Flexiones', 'Extensiones de tríceps en polea alta' y 'Patadas de tríceps' son válidos y trabajan los grupos musculares de 'Pecho' y 'Tríceps'. Sin embargo, 'Jalón al pecho', 'Peso muerto con piernas rígidas', 'Curl de bíceps con barra' y 'Elevaciones laterales' no son adecuados para un nivel principiante, ya que requieren una técnica más avanzada. Además, 'Sentadillas', 'Zancadas', 'Elevaciones de talones' y 'Plancha' son ejercicios que pueden ser peligrosos si no se realizan correctamente, lo que no es recomendable para principiantes."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:57:44.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c8ecea2ede5c19bccf8"
+  },
+  "perfil_usuario": {
+    "edad": 60,
+    "peso": 61.7,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press de banca con barra)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Espalda' (Remo con barra)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Biceps', 'Triceps'] pero IA metió 'Hombros' (Elevaciones laterales con mancuernas)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl de bíceps en máquina)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:58:38.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6cc0cea2ede5c19bccfb"
+  },
+  "perfil_usuario": {
+    "edad": 19,
+    "peso": 85.4,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la cantidad de series y repeticiones (5 series de 3 repeticiones) es demasiado alta para un nivel principiante, lo que puede resultar en un riesgo de lesión."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-19T13:59:28.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ccccea2ede5c19bccfe"
+  },
+  "perfil_usuario": {
+    "edad": 19,
+    "peso": 100.9,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-19T13:59:40.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7813f2f4e10c57a59ca6"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 56.8,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:00:03.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7831f2f4e10c57a59ca9"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 61.5,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Los ejercicios desconocidos en el día 1 son válidos y trabajan los grupos musculares exigidos (tríceps y pecho). Sin embargo, en el día 2, aunque los ejercicios son válidos, la inclusión de 'Dominadas asistidas' no se menciona como desconocido y no se ajusta a los grupos musculares requeridos. En el día 3, los ejercicios son válidos, pero la 'Prensa de piernas' no se menciona como desconocido y no se ajusta a los grupos musculares requeridos. Esto indica que hay alucinaciones en la rutina."
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:00:33.536Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d783ff2f4e10c57a59cac"
+  },
+  "perfil_usuario": {
+    "edad": 42,
+    "peso": 83.8,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:00:47.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7859f2f4e10c57a59caf"
+  },
+  "perfil_usuario": {
+    "edad": 26,
+    "peso": 68.4,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevaciones de gemelos sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:01:13.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7867f2f4e10c57a59cb2"
+  },
+  "perfil_usuario": {
+    "edad": 61,
+    "peso": 100.9,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:01:27.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d788cf2f4e10c57a59cb5"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 58.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Press francés': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] 'Extension de tríceps en polea alta': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_1] 'Press francés': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Piernas' (Peso muerto rumano)",
+        "[dia_2] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_2] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:02:04.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78c0f2f4e10c57a59cb8"
+  },
+  "perfil_usuario": {
+    "edad": 43,
+    "peso": 94,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Rompecráneos con mancuernas)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:02:56.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78cff2f4e10c57a59cbb"
+  },
+  "perfil_usuario": {
+    "edad": 52,
+    "peso": 73.1,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:03:11.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78edf2f4e10c57a59cbe"
+  },
+  "perfil_usuario": {
+    "edad": 27,
+    "peso": 52.1,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:03:41.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d791bf2f4e10c57a59cc1"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 68.1,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:04:27.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7928f2f4e10c57a59cc4"
+  },
+  "perfil_usuario": {
+    "edad": 51,
+    "peso": 95,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:04:40.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d794ff2f4e10c57a59cc7"
+  },
+  "perfil_usuario": {
+    "edad": 51,
+    "peso": 74.8,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Gemelos en Prensa': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Abdominales en Máquina': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl Martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensions de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl de bíceps con mancuernas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en paralelas': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:05:19.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d795ef2f4e10c57a59cca"
+  },
+  "perfil_usuario": {
+    "edad": 44,
+    "peso": 72.4,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:05:34.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d796ef2f4e10c57a59ccd"
+  },
+  "perfil_usuario": {
+    "edad": 56,
+    "peso": 107.7,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:05:50.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d798bf2f4e10c57a59cd0"
+  },
+  "perfil_usuario": {
+    "edad": 29,
+    "peso": 53.1,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_4] 'Elevaciones laterales': Reps mal (IA puso 12, KNN exigía 3-5)",
+        "[dia_4] 'Elevaciones frontales': Reps mal (IA puso 12, KNN exigía 3-5)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 3-5)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:06:19.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d799af2f4e10c57a59cd3"
+  },
+  "perfil_usuario": {
+    "edad": 43,
+    "peso": 98.9,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:06:34.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79abf2f4e10c57a59cd6"
+  },
+  "perfil_usuario": {
+    "edad": 65,
+    "peso": 94.1,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:06:51.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79d4f2f4e10c57a59cd9"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 58.4,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_4] Diferencia absurda de ejercicios (KNN:6, IA:2)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:2)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:07:32.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79e2f2f4e10c57a59cdc"
+  },
+  "perfil_usuario": {
+    "edad": 22,
+    "peso": 109.6,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:07:46.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a12f2f4e10c57a59cdf"
+  },
+  "perfil_usuario": {
+    "edad": 41,
+    "peso": 68.1,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:08:34.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a1ff2f4e10c57a59ce2"
+  },
+  "perfil_usuario": {
+    "edad": 32,
+    "peso": 92.7,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:08:47.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a4df2f4e10c57a59ce5"
+  },
+  "perfil_usuario": {
+    "edad": 23,
+    "peso": 50.6,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:09:33.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a6ff2f4e10c57a59ce8"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 61.6,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:2)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:10:07.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a8cf2f4e10c57a59ceb"
+  },
+  "perfil_usuario": {
+    "edad": 28,
+    "peso": 79.3,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:10:36.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a99f2f4e10c57a59cee"
+  },
+  "perfil_usuario": {
+    "edad": 27,
+    "peso": 71.4,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:10:49.899Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7aa7f2f4e10c57a59cf1"
+  },
+  "perfil_usuario": {
+    "edad": 42,
+    "peso": 71.1,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:11:03.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7abbf2f4e10c57a59cf4"
+  },
+  "perfil_usuario": {
+    "edad": 37,
+    "peso": 66,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:11:23.487Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7addf2f4e10c57a59cf7"
+  },
+  "perfil_usuario": {
+    "edad": 35,
+    "peso": 59,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_4] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:2)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl Martillo)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:11:57.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7aeaf2f4e10c57a59cfa"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 107.7,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:12:10.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b1ef2f4e10c57a59cfd"
+  },
+  "perfil_usuario": {
+    "edad": 60,
+    "peso": 68.7,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:13:02.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b30f2f4e10c57a59d00"
+  },
+  "perfil_usuario": {
+    "edad": 32,
+    "peso": 70.9,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:13:20.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b5af2f4e10c57a59d03"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 79.8,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones de piernas': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Los ejercicios desconocidos en el día 1 son válidos para trabajar tríceps y pecho, pero son inadecuados para un principiante debido a su complejidad y riesgo de lesión. En el día 2, los ejercicios también son adecuados, pero el nivel de dificultad es alto para principiantes. En el día 3, los ejercicios son apropiados, pero las sentadillas con barra son peligrosas para principiantes. En el día 4, los ejercicios son válidos, pero las elevaciones frontales y las planchas pueden ser difíciles para un principiante. En general, la rutina no es adecuada para el nivel principiante."
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Puente de glúteos': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha lateral': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:14:02.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b69f2f4e10c57a59d06"
+  },
+  "perfil_usuario": {
+    "edad": 65,
+    "peso": 104.2,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:14:17.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b81f2f4e10c57a59d09"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 105.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de gemelos': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:14:41.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b91f2f4e10c57a59d0c"
+  },
+  "perfil_usuario": {
+    "edad": 65,
+    "peso": 107.1,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:14:57.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7baef2f4e10c57a59d0f"
+  },
+  "perfil_usuario": {
+    "edad": 34,
+    "peso": 88.1,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la rutina tiene un volumen excesivo para un nivel principiante, lo que puede ser peligroso."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:15:26.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7bbdf2f4e10c57a59d12"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 92.2,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:15:41.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7becf2f4e10c57a59d15"
+  },
+  "perfil_usuario": {
+    "edad": 49,
+    "peso": 65.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en paralelas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Elevaciones de piernas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl con barra Z': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl inclinado con mancuernas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en paralelas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps con cuerda': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:16:28.401Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7bfaf2f4e10c57a59d18"
+  },
+  "perfil_usuario": {
+    "edad": 61,
+    "peso": 77.9,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:16:42.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c2af2f4e10c57a59d1b"
+  },
+  "perfil_usuario": {
+    "edad": 26,
+    "peso": 60.8,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Curl de piernas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Curl de piernas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de gemelos en máquina': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de gemelos en máquina': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl inclinado': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Press francés': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones con mancuerna': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:17:30.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c37f2f4e10c57a59d1e"
+  },
+  "perfil_usuario": {
+    "edad": 61,
+    "peso": 107,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:17:43.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c44f2f4e10c57a59d21"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 83.9,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:17:56.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c5df2f4e10c57a59d24"
+  },
+  "perfil_usuario": {
+    "edad": 55,
+    "peso": 74.8,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Planchas': Reps mal (IA puso 20, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:18:21.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c6bf2f4e10c57a59d27"
+  },
+  "perfil_usuario": {
+    "edad": 31,
+    "peso": 90.2,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:18:35.624Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c85f2f4e10c57a59d2a"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 61,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:19:01.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c95f2f4e10c57a59d2d"
+  },
+  "perfil_usuario": {
+    "edad": 39,
+    "peso": 58.4,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:19:17.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cb3f2f4e10c57a59d30"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 67.4,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:19:47.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cd7f2f4e10c57a59d33"
+  },
+  "perfil_usuario": {
+    "edad": 31,
+    "peso": 87.4,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 1, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 20, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Elevación de piernas': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:20:23.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cf0f2f4e10c57a59d36"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 80,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:20:48.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d00f2f4e10c57a59d39"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 69.3,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:21:04.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d0df2f4e10c57a59d3c"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 94,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:21:17.751Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d3ef2f4e10c57a59d3f"
+  },
+  "perfil_usuario": {
+    "edad": 33,
+    "peso": 98.5,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones sentado': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos entre bancos': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:22:06.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d64f2f4e10c57a59d42"
+  },
+  "perfil_usuario": {
+    "edad": 50,
+    "peso": 100.4,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:22:44.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d72f2f4e10c57a59d45"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 65.9,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:22:58.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d7ff2f4e10c57a59d48"
+  },
+  "perfil_usuario": {
+    "edad": 38,
+    "peso": 80.3,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:23:11.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d8bf2f4e10c57a59d4b"
+  },
+  "perfil_usuario": {
+    "edad": 41,
+    "peso": 94.5,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:23:23.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7db4f2f4e10c57a59d4e"
+  },
+  "perfil_usuario": {
+    "edad": 42,
+    "peso": 89.7,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:24:04.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7de0f2f4e10c57a59d51"
+  },
+  "perfil_usuario": {
+    "edad": 31,
+    "peso": 83,
+    "nivel": "Intermedio",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Hombros' (Press militar con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Dominadas asistidas)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:24:48.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7deef2f4e10c57a59d54"
+  },
+  "perfil_usuario": {
+    "edad": 18,
+    "peso": 60.6,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:25:02.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e0bf2f4e10c57a59d57"
+  },
+  "perfil_usuario": {
+    "edad": 59,
+    "peso": 66.1,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:25:31.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e17f2f4e10c57a59d5a"
+  },
+  "perfil_usuario": {
+    "edad": 34,
+    "peso": 97,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:25:43.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e30f2f4e10c57a59d5d"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 87,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de gemelos sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:26:08.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e40f2f4e10c57a59d60"
+  },
+  "perfil_usuario": {
+    "edad": 57,
+    "peso": 64.1,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:26:24.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e57f2f4e10c57a59d63"
+  },
+  "perfil_usuario": {
+    "edad": 44,
+    "peso": 73.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:26:47.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e77f2f4e10c57a59d66"
+  },
+  "perfil_usuario": {
+    "edad": 52,
+    "peso": 97.5,
+    "nivel": "Principiante",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl con mancuernas)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de piernas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Press de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Ramas con mancuernas': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:27:19.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e9ef2f4e10c57a59d69"
+  },
+  "perfil_usuario": {
+    "edad": 64,
+    "peso": 82.9,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press inclinado con mancuernas)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Espalda' (Remo con barra)",
+        "[dia_5] Alucinación muscular: Hoy tocaba ['Triceps', 'Biceps'] pero IA metió 'Hombros' (Press militar con mancuernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:27:58.939Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7eaef2f4e10c57a59d6c"
+  },
+  "perfil_usuario": {
+    "edad": 55,
+    "peso": 107.3,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:28:14.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7ec0f2f4e10c57a59d6f"
+  },
+  "perfil_usuario": {
+    "edad": 26,
+    "peso": 68.3,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:28:32.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7ee0f2f4e10c57a59d72"
+  },
+  "perfil_usuario": {
+    "edad": 22,
+    "peso": 107.4,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:29:04.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7eedf2f4e10c57a59d75"
+  },
+  "perfil_usuario": {
+    "edad": 27,
+    "peso": 85.2,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:29:17.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f12f2f4e10c57a59d78"
+  },
+  "perfil_usuario": {
+    "edad": 49,
+    "peso": 52.8,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos como 'Press de banca', 'Flexiones', 'Aperturas con mancuernas', 'Peso muerto', 'Sentadillas', 'Zancadas', 'Elevación de talones', 'Plancha', 'Press militar', 'Elevaciones laterales', 'Elevaciones frontales', 'Crunches', 'Curl de bíceps con barra', 'Curl de bíceps en mancuerna', 'Fondos en paralelas' y 'Extensión de tríceps con mancuerna' son ejercicios válidos que trabajan los grupos musculares requeridos. Sin embargo, la rutina incluye ejercicios que son demasiado avanzados para un nivel principiante, como el 'Peso muerto' y 'Fondos en paralelas', lo que puede resultar en un riesgo de lesiones."
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Pecho' (Press de pecho en máquina)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_3] 'Elevación de talones en máquina': Reps mal (IA puso 15, KNN exigía 3-5)",
+        "[dia_3] 'Planchas': Reps mal (IA puso 15, KNN exigía 3-5)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:29:54.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f33f2f4e10c57a59d7b"
+  },
+  "perfil_usuario": {
+    "edad": 58,
+    "peso": 102.4,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] Alucinación muscular: Hoy tocaba ['Gemelos', 'Piernas'] pero IA metió 'Core' (Elevación de piernas)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:30:27.820Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f41f2f4e10c57a59d7e"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 63.2,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:30:41.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f4ef2f4e10c57a59d81"
+  },
+  "perfil_usuario": {
+    "edad": 28,
+    "peso": 101.4,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:30:54.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f5cf2f4e10c57a59d84"
+  },
+  "perfil_usuario": {
+    "edad": 52,
+    "peso": 106.9,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:31:08.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f85f2f4e10c57a59d87"
+  },
+  "perfil_usuario": {
+    "edad": 47,
+    "peso": 78.2,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de Talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Crunch': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press Francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl Martillo)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] 'Extensiones de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_1] 'Patadas de tríceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_2] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_2] 'Curl concentrado': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:2)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:31:49.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f9af2f4e10c57a59d8a"
+  },
+  "perfil_usuario": {
+    "edad": 36,
+    "peso": 58.3,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Biceps', 'Espalda'] pero IA metió 'Hombros' (Face pull)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:32:10.810Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fb0f2f4e10c57a59d8d"
+  },
+  "perfil_usuario": {
+    "edad": 40,
+    "peso": 96.8,
+    "nivel": "Principiante",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 4
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Diferencia absurda de ejercicios (KNN:6, IA:3)",
+        "[dia_2] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:32:32.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fc4f2f4e10c57a59d90"
+  },
+  "perfil_usuario": {
+    "edad": 44,
+    "peso": 77.8,
+    "nivel": "Avanzado",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:32:52.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fe1f2f4e10c57a59d93"
+  },
+  "perfil_usuario": {
+    "edad": 30,
+    "peso": 108.4,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Diferencia absurda de ejercicios (KNN:4, IA:7)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Hombros', 'Core'] pero IA metió 'Triceps' (Patada de tríceps)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:33:21.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8006f2f4e10c57a59d96"
+  },
+  "perfil_usuario": {
+    "edad": 24,
+    "peso": 107.3,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "Días distintos"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "Días distintos"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:33:58.051Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8013f2f4e10c57a59d99"
+  },
+  "perfil_usuario": {
+    "edad": 37,
+    "peso": 90.3,
+    "nivel": "Avanzado",
+    "objetivo": "Perdida_Peso",
+    "dias_entreno": 3
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T09:34:11.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8037f2f4e10c57a59d9c"
+  },
+  "perfil_usuario": {
+    "edad": 63,
+    "peso": 67.3,
+    "nivel": "Principiante",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "Los ejercicios desconocidos son válidos y trabajan los grupos musculares exigidos, pero la rutina incluye ejercicios que no son apropiados para principiantes, como 'Fondos en paralelas' y 'Dominadas asistidas', que requieren un nivel de fuerza superior. Además, la cantidad de series y repeticiones (5 series de 5 repeticiones) es excesiva para un principiante, lo que puede llevar a lesiones."
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T09:34:47.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d919b6aba96b101de1487"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T10:48:59.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d92346aba96b101de1488"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-20T10:51:32.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d92386aba96b101de1489"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Avanzado",
+    "objetivo": "Fuerza",
+    "dias_entreno": 5
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 2,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T10:51:36.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d92b06aba96b101de148a"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Gemelos de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Gemelos de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T10:53:36.504Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d92b16aba96b101de148b"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Curl de piernas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Plancha': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunch en máquina': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_4] 'Crunch en máquina': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Puente': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Puente': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunch en máquina': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Crunch en máquina': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Abdominales en pelota': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Abdominales en pelota': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] Diferencia absurda de ejercicios (KNN:6, IA:3)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T10:53:37.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d92ea6aba96b101de148c"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Dumbbell Hammer Curl': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en paralelas': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Press francés)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_4] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea alta': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T10:54:34.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d92ee6aba96b101de148d"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea alta': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de pantorrillas': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Crunch abdominal': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T10:54:38.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93276aba96b101de1490"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos para tríceps': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Hombros' (Face pull)",
+        "[dia_3] 'Elevación de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Crunch': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Crunch': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos entre bancos': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-20T10:55:35.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1863103fd075e9d56d9f08"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Piernas' (Peso Muerto Rumano)",
+        "[dia_3] 'Elevación de Talones de Pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de Talones Sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl de Bíceps con Barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl Martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de Tríceps en Polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos de Tríceps en Banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl Martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de Talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación de Talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación Unilateral de Talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevación Unilateral de Talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_5] 'Curl con Barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl Martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de Tríceps': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en Máquina': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-28T15:45:20.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1863133fd075e9d56d9f09"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Plancha': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_3] 'Plancha': Reps mal (IA puso 30, KNN exigía 8-12)",
+        "[dia_4] 'Abdominales en banco inclinado': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_4] 'Abdominales en banco inclinado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl martillo': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensión de tríceps en polea': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en banco': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Fondos en banco)",
+        "[dia_1] Alucinación muscular: Hoy tocaba ['Pecho'] pero IA metió 'Triceps' (Patada de tríceps)",
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_2] Alucinación muscular: Hoy tocaba ['Espalda'] pero IA metió 'Biceps' (Curl martillo)",
+        "[dia_3] 'Elevaciones de talones': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_3] 'Elevaciones de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Planchas': Series mal (IA puso 2, KNN exigía 4)",
+        "[dia_4] 'Planchas': Reps mal (IA puso 20, KNN exigía 8-12)",
+        "[dia_5] 'Curl con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl inclinado': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en banco': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos en paralelas': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-28T15:45:23.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a18636e3fd075e9d56d9f0c"
+  },
+  "perfil_usuario": {
+    "edad": 21,
+    "peso": 60,
+    "nivel": "Intermedio",
+    "objetivo": "Hipertrofia",
+    "dias_entreno": 5
+  },
+  "resultado_final": "fallback_knn",
+  "intentos_consumidos": 3,
+  "historial_errores": [
+    {
+      "intento": 1,
+      "error": [
+        "[dia_3] 'Elevación de talones de pie': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_3] 'Elevación de talones sentado': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Crunches': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_5] 'Curl de bíceps con barra': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Curl de bíceps alterno con mancuerna': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Extensiones de tríceps en cuerda': Series mal (IA puso 3, KNN exigía 4)",
+        "[dia_5] 'Fondos entre bancos': Series mal (IA puso 3, KNN exigía 4)"
+      ]
+    },
+    {
+      "intento": 2,
+      "error": [
+        "[dia_4] Alucinación muscular: Hoy tocaba ['Core', 'Hombros'] pero IA metió 'Piernas' (Peso muerto rumano)"
+      ]
+    },
+    {
+      "intento": 3,
+      "error": [
+        "[dia_3] 'Elevación de talones': Reps mal (IA puso 15, KNN exigía 8-12)",
+        "[dia_4] 'Plancha': Reps mal (IA puso 15, KNN exigía 8-12)"
+      ]
+    }
+  ],
+  "fecha": {
+    "$date": "2026-05-28T15:46:54.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19403412bc081b8e6a69bd"
+  },
+  "perfil_usuario": {
+    "edad": 22,
+    "peso": 65,
+    "nivel": "Intermedio",
+    "objetivo": "Fuerza",
+    "dias_entreno": 4
+  },
+  "resultado_final": "aprobado",
+  "intentos_consumidos": 1,
+  "historial_errores": [],
+  "fecha": {
+    "$date": "2026-05-29T07:28:52.302Z"
+  }
+}]

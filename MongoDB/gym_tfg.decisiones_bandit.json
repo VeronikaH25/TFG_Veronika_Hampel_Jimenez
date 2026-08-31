@@ -1,0 +1,1083 @@
+[{
+  "_id": {
+    "$oid": "6a0d8d463194c65e4e905dd4"
+  },
+  "email_usuario": "test_usuario_0@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:30.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d463194c65e4e905dd5"
+  },
+  "email_usuario": "test_usuario_1@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:30.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d463194c65e4e905dd6"
+  },
+  "email_usuario": "test_usuario_2@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:30.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d463194c65e4e905dd7"
+  },
+  "email_usuario": "test_usuario_3@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:30.997Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905dd8"
+  },
+  "email_usuario": "test_usuario_4@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905dd9"
+  },
+  "email_usuario": "test_usuario_5@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905dda"
+  },
+  "email_usuario": "test_usuario_6@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.206Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905ddb"
+  },
+  "email_usuario": "test_usuario_7@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905ddc"
+  },
+  "email_usuario": "test_usuario_8@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905ddd"
+  },
+  "email_usuario": "test_usuario_9@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905dde"
+  },
+  "email_usuario": "test_usuario_10@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905ddf"
+  },
+  "email_usuario": "test_usuario_11@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905de0"
+  },
+  "email_usuario": "test_usuario_12@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905de1"
+  },
+  "email_usuario": "test_usuario_13@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905de2"
+  },
+  "email_usuario": "test_usuario_14@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905de3"
+  },
+  "email_usuario": "test_usuario_15@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905de4"
+  },
+  "email_usuario": "test_usuario_16@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.923Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d473194c65e4e905de5"
+  },
+  "email_usuario": "test_usuario_17@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:31.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d483194c65e4e905de6"
+  },
+  "email_usuario": "test_usuario_18@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:32.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8d483194c65e4e905de7"
+  },
+  "email_usuario": "test_usuario_19@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:30:32.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d91626aba96b101de1481"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:48:02.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d91626aba96b101de1482"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:48:02.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d917d6aba96b101de1483"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:48:29.477Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d917d6aba96b101de1484"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:48:29.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d91896aba96b101de1485"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:48:41.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d918a6aba96b101de1486"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:48:42.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93066aba96b101de148e"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:55:02.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93066aba96b101de148f"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:55:02.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d9385cfb057039aa3f12d"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:57:09.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93a2f64ec95551f05049"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:57:38.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93a2f64ec95551f0504a"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:57:38.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93a9f64ec95551f0504b"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:57:45.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d93a9f64ec95551f0504c"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T10:57:45.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d950993e0dab800270dab"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T11:03:37.467Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d950993e0dab800270dac"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T11:03:37.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d966cc3669f98200d0867"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T11:09:32.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d966cc3669f98200d0868"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-20T11:09:32.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ea92b30417a28ad7a5dbe"
+  },
+  "email_usuario": "test_concurrencia_1@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T06:41:47.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ea92b30417a28ad7a5dbf"
+  },
+  "email_usuario": "test_concurrencia_2@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T06:41:47.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb028e6ee1baaadec7a28"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T07:11:36.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb028e6ee1baaadec7a29"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.78,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 218,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T07:11:36.813Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb18de6ee1baaadec7a2b"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T07:17:33.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb18ee6ee1baaadec7a2c"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T07:17:34.009Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb1ade6ee1baaadec7a2d"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T07:18:05.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb1ade6ee1baaadec7a2e"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-21T07:18:05.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a18634c3fd075e9d56d9f0a"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-28T15:46:20.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a18634c3fd075e9d56d9f0b"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-28T15:46:20.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1863d03fd075e9d56d9f0d"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-28T15:48:32.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1863d03fd075e9d56d9f0e"
+  },
+  "email_usuario": "vero@test.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-28T15:48:32.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a193fab695063ed87a1b8c5"
+  },
+  "email_usuario": "test_concurrencia_2@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:26:35.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a193fab695063ed87a1b8c6"
+  },
+  "email_usuario": "test_concurrencia_1@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:26:35.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19401412bc081b8e6a69bb"
+  },
+  "email_usuario": "test_concurrencia_1@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "ia",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:28:20.399Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19401412bc081b8e6a69bc"
+  },
+  "email_usuario": "test_concurrencia_2@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:28:20.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19404012bc081b8e6a69bf"
+  },
+  "email_usuario": "test_concurrencia_1@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:29:04.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19404012bc081b8e6a69be"
+  },
+  "email_usuario": "test_concurrencia_2@tfg.com",
+  "estrategia": "exploracion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:29:04.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19404712bc081b8e6a69c0"
+  },
+  "email_usuario": "test_concurrencia_1@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:29:11.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a19404712bc081b8e6a69c1"
+  },
+  "email_usuario": "test_concurrencia_2@tfg.com",
+  "estrategia": "explotacion",
+  "modelo_elegido": "knn",
+  "historico_medias": {
+    "knn": 3.79,
+    "ia": 2.79
+  },
+  "historico_votos": {
+    "knn": 219,
+    "ia": 218
+  },
+  "fecha_decision": {
+    "$date": "2026-05-29T07:29:11.559Z"
+  }
+}]

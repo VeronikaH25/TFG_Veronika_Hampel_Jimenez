@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "6a02f38b4e23b25d8bd0d030"
+  },
+  "nombre": "Veronika",
+  "email": "vero@test.com",
+  "password": "$2b$12$sSTeBzRKUqt4IbpQr8pBk.H/Jo3fTJQIohuNTyYhN4w/0fSPfVZMG",
+  "edad": 21,
+  "peso": 60,
+  "nivel": "Intermedio",
+  "objetivo": "Hipertrofia",
+  "rutina_asignada": null,
+  "dias_entreno": 5,
+  "rutina_activa": {
+    "dia_1": [
+      {
+        "ejercicio": "Cruce de poleas alto",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Press inclinado con mancuernas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Press de banca con barra",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Fondos en paralelas (pecho)",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_2": [
+      {
+        "ejercicio": "Dominadas sin lastre",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Dominadas asistidas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Remo en barra T",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Remo con mancuerna a una mano",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_3": [
+      {
+        "ejercicio": "Hip Thrust con barra",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Prensa inclinada pesada",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Sentadilla búlgara",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Peso muerto rumano",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Saltos a la comba",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Gemelos en prensa pesada",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_4": [
+      {
+        "ejercicio": "Press militar con mancuernas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Pájaros con mancuerna",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Elevaciones laterales con mancuernas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Face pull",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Plancha lateral completa",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "V-sit alterno",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_5": [
+      {
+        "ejercicio": "Curl predicador",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Curl inclinado con mancuernas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Curl 21",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Extensiones tras nuca",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Press francés",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Extensión a una mano en polea",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a043ae89ca0553248838c06"
+  },
+  "nombre": "Prueba",
+  "email": "prueba@test.com",
+  "password": "$2b$12$B/7r7lf6f3HtE8.hh11ro.7hGRLIvGMLVZ9dG34gzAE2sDA92kVUq",
+  "edad": 21,
+  "peso": 60,
+  "nivel": "Principiante",
+  "objetivo": "Fuerza",
+  "dias_entreno": 4,
+  "rutina_asignada": null
+},
+{
+  "_id": {
+    "$oid": "6a047fb204f467380744c00c"
+  },
+  "nombre": "Jiri Hampel",
+  "email": "jiri@test.com",
+  "password": "$2b$12$uu1.JQDink1i8uzP3cKRoe2jExAp92yXnecopPqvLAsvHwk6kN5KK",
+  "edad": 48,
+  "peso": 84,
+  "nivel": "Avanzado",
+  "objetivo": "Hipertrofia",
+  "dias_entreno": 4,
+  "rutina_asignada": null,
+  "rutina_activa": {
+    "dia_1": [
+      {
+        "ejercicio": "Fondos lastrados",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Flexiones con palmada explosivas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Press declinado con barra",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Flexiones diamante lastradas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "JM Press",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Fondos lastrados (tríceps)",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_2": [
+      {
+        "ejercicio": "Dominadas a una mano asistidas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Peso muerto convencional",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Remo Pendlay",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Curl araña",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Dominadas supinas lastradas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Curl concentrado estricto",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_3": [
+      {
+        "ejercicio": "Sentadilla profunda pesada",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Sentadilla frontal",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Sentadilla Pistol",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Peso muerto sumo pesado",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Elevaciones con pausa larga",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Elevación a una pierna con lastre",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_4": [
+      {
+        "ejercicio": "Pájaros en polea alta",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Press militar con barra",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Handstand push-ups",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Push Press",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Rueda abdominal de pie",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Toes to bar (Pies a la barra)",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6a04b19dac68e1697ebc4614"
+  },
+  "nombre": "David",
+  "email": "david@test.com",
+  "password": "$2b$12$AsVrU7zBQKG6OKWxsQ8YL.mj4OOU9bfXgqxeyRUdWxIUFpADt768W",
+  "edad": 23,
+  "peso": 70,
+  "nivel": "Intermedio",
+  "objetivo": "Hipertrofia",
+  "dias_entreno": 3,
+  "rutina_asignada": null,
+  "rutina_activa": {
+    "dia_1": [
+      {
+        "ejercicio": "Aperturas en polea",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Cruce de poleas alto",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Press inclinado con mancuernas",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Extensiones tras nuca",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Extensión a una mano en polea",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_2": [
+      {
+        "ejercicio": "Remo en barra T",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Dominadas sin lastre",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Remo con barra",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Curl predicador",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Curl martillo cruzado",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Face pull",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Remo al mentón con polea",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ],
+    "dia_3": [
+      {
+        "ejercicio": "Prensa inclinada pesada",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Sentadilla con barra",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Peso muerto rumano",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Elevación en máquina de pie",
+        "series": 4,
+        "reps": "8-12"
+      },
+      {
+        "ejercicio": "Elevación de piernas",
+        "series": 4,
+        "reps": "8-12"
+      }
+    ]
+  }
+}]

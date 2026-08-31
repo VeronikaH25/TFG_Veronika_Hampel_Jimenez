@@ -1,0 +1,5244 @@
+[{
+  "_id": {
+    "$oid": "6a0c5c2e99d576491ffdf789"
+  },
+  "email_usuario": "simulador_juez_1779187726@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:48:46.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c2e99d576491ffdf78a"
+  },
+  "email_usuario": "simulador_juez_1779187726@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:48:46.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c3d99d576491ffdf78b"
+  },
+  "email_usuario": "simulador_juez_1779187741@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:49:01.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c3d99d576491ffdf78c"
+  },
+  "email_usuario": "simulador_juez_1779187741@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:49:01.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c6499d576491ffdf78d"
+  },
+  "email_usuario": "simulador_juez_1779187780@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:49:40.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c6499d576491ffdf78e"
+  },
+  "email_usuario": "simulador_juez_1779187780@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:49:40.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c7199d576491ffdf78f"
+  },
+  "email_usuario": "simulador_juez_1779187793@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:49:53.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c7199d576491ffdf790"
+  },
+  "email_usuario": "simulador_juez_1779187793@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:49:53.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c8499d576491ffdf791"
+  },
+  "email_usuario": "simulador_juez_1779187812@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:50:12.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5c8499d576491ffdf792"
+  },
+  "email_usuario": "simulador_juez_1779187812@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:50:12.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ddbd3387cef99d5c083"
+  },
+  "email_usuario": "simulador_juez_1779195355@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:55:55.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ddbd3387cef99d5c084"
+  },
+  "email_usuario": "simulador_juez_1779195355@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:55:55.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5debd3387cef99d5c085"
+  },
+  "email_usuario": "simulador_juez_1779195371@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:56:11.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5debd3387cef99d5c086"
+  },
+  "email_usuario": "simulador_juez_1779195371@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:56:11.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e05d3387cef99d5c087"
+  },
+  "email_usuario": "simulador_juez_1779195397@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:56:37.406Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e05d3387cef99d5c088"
+  },
+  "email_usuario": "simulador_juez_1779195397@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:56:37.406Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e2bd3387cef99d5c089"
+  },
+  "email_usuario": "simulador_juez_1779195435@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:57:15.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e2bd3387cef99d5c08a"
+  },
+  "email_usuario": "simulador_juez_1779195435@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:57:15.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e41d3387cef99d5c08b"
+  },
+  "email_usuario": "simulador_juez_1779195457@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:57:37.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e41d3387cef99d5c08c"
+  },
+  "email_usuario": "simulador_juez_1779195457@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:57:37.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e58d3387cef99d5c08d"
+  },
+  "email_usuario": "simulador_juez_1779195480@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:58:00.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e58d3387cef99d5c08e"
+  },
+  "email_usuario": "simulador_juez_1779195480@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:58:00.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e65d3387cef99d5c08f"
+  },
+  "email_usuario": "simulador_juez_1779195493@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:58:13.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e65d3387cef99d5c090"
+  },
+  "email_usuario": "simulador_juez_1779195493@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:58:13.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e81d3387cef99d5c091"
+  },
+  "email_usuario": "simulador_juez_1779195521@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:58:41.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e81d3387cef99d5c092"
+  },
+  "email_usuario": "simulador_juez_1779195521@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:58:41.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e9ed3387cef99d5c093"
+  },
+  "email_usuario": "simulador_juez_1779195550@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:59:10.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5e9ed3387cef99d5c094"
+  },
+  "email_usuario": "simulador_juez_1779195550@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:59:10.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5eadd3387cef99d5c095"
+  },
+  "email_usuario": "simulador_juez_1779195565@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:59:25.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5eadd3387cef99d5c096"
+  },
+  "email_usuario": "simulador_juez_1779195565@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:59:25.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ec2d3387cef99d5c097"
+  },
+  "email_usuario": "simulador_juez_1779195586@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:59:46.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ec2d3387cef99d5c098"
+  },
+  "email_usuario": "simulador_juez_1779195586@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T12:59:46.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ed0d3387cef99d5c099"
+  },
+  "email_usuario": "simulador_juez_1779195600@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:00:00.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ed0d3387cef99d5c09a"
+  },
+  "email_usuario": "simulador_juez_1779195600@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:00:00.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ef5d3387cef99d5c09b"
+  },
+  "email_usuario": "simulador_juez_1779195637@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:00:37.894Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ef5d3387cef99d5c09c"
+  },
+  "email_usuario": "simulador_juez_1779195637@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:00:37.894Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5fc4cea2ede5c19bcba3"
+  },
+  "email_usuario": "simulador_juez_1779195844@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:04:04.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5fc4cea2ede5c19bcba4"
+  },
+  "email_usuario": "simulador_juez_1779195844@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:04:04.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5fd2cea2ede5c19bcba6"
+  },
+  "email_usuario": "simulador_juez_1779195858@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:04:18.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5fd2cea2ede5c19bcba7"
+  },
+  "email_usuario": "simulador_juez_1779195858@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:04:18.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ff7cea2ede5c19bcba9"
+  },
+  "email_usuario": "simulador_juez_1779195895@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:04:55.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c5ff7cea2ede5c19bcbaa"
+  },
+  "email_usuario": "simulador_juez_1779195895@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:04:55.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6013cea2ede5c19bcbac"
+  },
+  "email_usuario": "simulador_juez_1779195923@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:05:23.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6013cea2ede5c19bcbad"
+  },
+  "email_usuario": "simulador_juez_1779195923@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:05:23.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6028cea2ede5c19bcbaf"
+  },
+  "email_usuario": "simulador_juez_1779195944@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:05:44.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6028cea2ede5c19bcbb0"
+  },
+  "email_usuario": "simulador_juez_1779195944@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:05:44.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c604acea2ede5c19bcbb2"
+  },
+  "email_usuario": "simulador_juez_1779195978@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:06:18.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c604acea2ede5c19bcbb3"
+  },
+  "email_usuario": "simulador_juez_1779195978@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:06:18.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6066cea2ede5c19bcbb5"
+  },
+  "email_usuario": "simulador_juez_1779196006@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:06:46.017Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6066cea2ede5c19bcbb6"
+  },
+  "email_usuario": "simulador_juez_1779196006@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:06:46.017Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6081cea2ede5c19bcbb8"
+  },
+  "email_usuario": "simulador_juez_1779196033@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:07:13.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6081cea2ede5c19bcbb9"
+  },
+  "email_usuario": "simulador_juez_1779196033@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:07:13.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60aacea2ede5c19bcbbb"
+  },
+  "email_usuario": "simulador_juez_1779196074@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:07:54.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60aacea2ede5c19bcbbc"
+  },
+  "email_usuario": "simulador_juez_1779196074@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:07:54.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60e4cea2ede5c19bcbbe"
+  },
+  "email_usuario": "simulador_juez_1779196132@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:08:52.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60e4cea2ede5c19bcbbf"
+  },
+  "email_usuario": "simulador_juez_1779196132@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:08:52.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60f5cea2ede5c19bcbc1"
+  },
+  "email_usuario": "simulador_juez_1779196149@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:09:09.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c60f5cea2ede5c19bcbc2"
+  },
+  "email_usuario": "simulador_juez_1779196149@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:09:09.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6119cea2ede5c19bcbc4"
+  },
+  "email_usuario": "simulador_juez_1779196185@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:09:45.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6119cea2ede5c19bcbc5"
+  },
+  "email_usuario": "simulador_juez_1779196185@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:09:45.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c613ecea2ede5c19bcbc7"
+  },
+  "email_usuario": "simulador_juez_1779196222@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:10:22.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c613ecea2ede5c19bcbc8"
+  },
+  "email_usuario": "simulador_juez_1779196222@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:10:22.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c614ccea2ede5c19bcbca"
+  },
+  "email_usuario": "simulador_juez_1779196236@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:10:36.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c614ccea2ede5c19bcbcb"
+  },
+  "email_usuario": "simulador_juez_1779196236@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:10:36.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c616fcea2ede5c19bcbcd"
+  },
+  "email_usuario": "simulador_juez_1779196271@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:11:11.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c616fcea2ede5c19bcbce"
+  },
+  "email_usuario": "simulador_juez_1779196271@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:11:11.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c617dcea2ede5c19bcbd0"
+  },
+  "email_usuario": "simulador_juez_1779196285@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:11:25.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c617dcea2ede5c19bcbd1"
+  },
+  "email_usuario": "simulador_juez_1779196285@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:11:25.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61a0cea2ede5c19bcbd3"
+  },
+  "email_usuario": "simulador_juez_1779196320@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:12:00.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61a0cea2ede5c19bcbd4"
+  },
+  "email_usuario": "simulador_juez_1779196320@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:12:00.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61c1cea2ede5c19bcbd6"
+  },
+  "email_usuario": "simulador_juez_1779196353@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:12:33.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61c1cea2ede5c19bcbd7"
+  },
+  "email_usuario": "simulador_juez_1779196353@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:12:33.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61dbcea2ede5c19bcbd9"
+  },
+  "email_usuario": "simulador_juez_1779196379@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:12:59.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61dbcea2ede5c19bcbda"
+  },
+  "email_usuario": "simulador_juez_1779196379@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:12:59.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61fdcea2ede5c19bcbdc"
+  },
+  "email_usuario": "simulador_juez_1779196413@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:13:33.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c61fdcea2ede5c19bcbdd"
+  },
+  "email_usuario": "simulador_juez_1779196413@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:13:33.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c620fcea2ede5c19bcbdf"
+  },
+  "email_usuario": "simulador_juez_1779196431@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:13:51.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c620fcea2ede5c19bcbe0"
+  },
+  "email_usuario": "simulador_juez_1779196431@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:13:51.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c621ecea2ede5c19bcbe2"
+  },
+  "email_usuario": "simulador_juez_1779196446@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:14:06.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c621ecea2ede5c19bcbe3"
+  },
+  "email_usuario": "simulador_juez_1779196446@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:14:06.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c622acea2ede5c19bcbe5"
+  },
+  "email_usuario": "simulador_juez_1779196458@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:14:18.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c622acea2ede5c19bcbe6"
+  },
+  "email_usuario": "simulador_juez_1779196458@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:14:18.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6239cea2ede5c19bcbe8"
+  },
+  "email_usuario": "simulador_juez_1779196473@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:14:33.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6239cea2ede5c19bcbe9"
+  },
+  "email_usuario": "simulador_juez_1779196473@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:14:33.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6258cea2ede5c19bcbeb"
+  },
+  "email_usuario": "simulador_juez_1779196504@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:15:04.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6258cea2ede5c19bcbec"
+  },
+  "email_usuario": "simulador_juez_1779196504@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:15:04.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6267cea2ede5c19bcbee"
+  },
+  "email_usuario": "simulador_juez_1779196519@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:15:19.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6267cea2ede5c19bcbef"
+  },
+  "email_usuario": "simulador_juez_1779196519@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:15:19.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6289cea2ede5c19bcbf1"
+  },
+  "email_usuario": "simulador_juez_1779196553@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:15:53.433Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6289cea2ede5c19bcbf2"
+  },
+  "email_usuario": "simulador_juez_1779196553@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:15:53.433Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62a6cea2ede5c19bcbf4"
+  },
+  "email_usuario": "simulador_juez_1779196582@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:16:22.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62a6cea2ede5c19bcbf5"
+  },
+  "email_usuario": "simulador_juez_1779196582@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:16:22.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62b6cea2ede5c19bcbf7"
+  },
+  "email_usuario": "simulador_juez_1779196598@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:16:38.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62b6cea2ede5c19bcbf8"
+  },
+  "email_usuario": "simulador_juez_1779196598@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:16:38.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62cdcea2ede5c19bcbfa"
+  },
+  "email_usuario": "simulador_juez_1779196621@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:17:01.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62cdcea2ede5c19bcbfb"
+  },
+  "email_usuario": "simulador_juez_1779196621@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:17:01.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62eacea2ede5c19bcbfd"
+  },
+  "email_usuario": "simulador_juez_1779196650@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:17:30.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c62eacea2ede5c19bcbfe"
+  },
+  "email_usuario": "simulador_juez_1779196650@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:17:30.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6304cea2ede5c19bcc00"
+  },
+  "email_usuario": "simulador_juez_1779196676@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:17:56.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6304cea2ede5c19bcc01"
+  },
+  "email_usuario": "simulador_juez_1779196676@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:17:56.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6316cea2ede5c19bcc03"
+  },
+  "email_usuario": "simulador_juez_1779196694@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:18:14.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6316cea2ede5c19bcc04"
+  },
+  "email_usuario": "simulador_juez_1779196694@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:18:14.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6327cea2ede5c19bcc06"
+  },
+  "email_usuario": "simulador_juez_1779196711@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:18:31.792Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6327cea2ede5c19bcc07"
+  },
+  "email_usuario": "simulador_juez_1779196711@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:18:31.792Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6338cea2ede5c19bcc09"
+  },
+  "email_usuario": "simulador_juez_1779196728@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:18:48.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6338cea2ede5c19bcc0a"
+  },
+  "email_usuario": "simulador_juez_1779196728@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:18:48.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6356cea2ede5c19bcc0c"
+  },
+  "email_usuario": "simulador_juez_1779196758@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:19:18.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6356cea2ede5c19bcc0d"
+  },
+  "email_usuario": "simulador_juez_1779196758@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:19:18.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6389cea2ede5c19bcc0f"
+  },
+  "email_usuario": "simulador_juez_1779196809@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:20:09.602Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6389cea2ede5c19bcc10"
+  },
+  "email_usuario": "simulador_juez_1779196809@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:20:09.602Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63aacea2ede5c19bcc12"
+  },
+  "email_usuario": "simulador_juez_1779196842@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:20:42.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63aacea2ede5c19bcc13"
+  },
+  "email_usuario": "simulador_juez_1779196842@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:20:42.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63b9cea2ede5c19bcc15"
+  },
+  "email_usuario": "simulador_juez_1779196857@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:20:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63b9cea2ede5c19bcc16"
+  },
+  "email_usuario": "simulador_juez_1779196857@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:20:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63cacea2ede5c19bcc18"
+  },
+  "email_usuario": "simulador_juez_1779196874@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:21:14.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c63cacea2ede5c19bcc19"
+  },
+  "email_usuario": "simulador_juez_1779196874@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:21:14.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6400cea2ede5c19bcc1b"
+  },
+  "email_usuario": "simulador_juez_1779196928@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:22:08.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6400cea2ede5c19bcc1c"
+  },
+  "email_usuario": "simulador_juez_1779196928@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:22:08.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c641ecea2ede5c19bcc1e"
+  },
+  "email_usuario": "simulador_juez_1779196958@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:22:38.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c641ecea2ede5c19bcc1f"
+  },
+  "email_usuario": "simulador_juez_1779196958@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:22:38.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c644ccea2ede5c19bcc21"
+  },
+  "email_usuario": "simulador_juez_1779197004@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:23:24.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c644ccea2ede5c19bcc22"
+  },
+  "email_usuario": "simulador_juez_1779197004@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:23:24.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c645fcea2ede5c19bcc24"
+  },
+  "email_usuario": "simulador_juez_1779197023@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:23:43.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c645fcea2ede5c19bcc25"
+  },
+  "email_usuario": "simulador_juez_1779197023@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:23:43.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c648ccea2ede5c19bcc27"
+  },
+  "email_usuario": "simulador_juez_1779197068@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:24:28.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c648ccea2ede5c19bcc28"
+  },
+  "email_usuario": "simulador_juez_1779197068@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:24:28.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c649ecea2ede5c19bcc2a"
+  },
+  "email_usuario": "simulador_juez_1779197086@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:24:46.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c649ecea2ede5c19bcc2b"
+  },
+  "email_usuario": "simulador_juez_1779197086@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:24:46.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64c3cea2ede5c19bcc2d"
+  },
+  "email_usuario": "simulador_juez_1779197123@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:25:23.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64c3cea2ede5c19bcc2e"
+  },
+  "email_usuario": "simulador_juez_1779197123@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:25:23.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64d4cea2ede5c19bcc30"
+  },
+  "email_usuario": "simulador_juez_1779197140@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:25:40.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64d4cea2ede5c19bcc31"
+  },
+  "email_usuario": "simulador_juez_1779197140@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:25:40.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64e3cea2ede5c19bcc33"
+  },
+  "email_usuario": "simulador_juez_1779197155@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:25:55.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64e3cea2ede5c19bcc34"
+  },
+  "email_usuario": "simulador_juez_1779197155@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:25:55.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64f3cea2ede5c19bcc36"
+  },
+  "email_usuario": "simulador_juez_1779197171@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:11.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c64f3cea2ede5c19bcc37"
+  },
+  "email_usuario": "simulador_juez_1779197171@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:11.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6501cea2ede5c19bcc39"
+  },
+  "email_usuario": "simulador_juez_1779197185@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:25.411Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6501cea2ede5c19bcc3a"
+  },
+  "email_usuario": "simulador_juez_1779197185@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:25.411Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6512cea2ede5c19bcc3c"
+  },
+  "email_usuario": "simulador_juez_1779197202@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:42.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6512cea2ede5c19bcc3d"
+  },
+  "email_usuario": "simulador_juez_1779197202@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:42.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6521cea2ede5c19bcc3f"
+  },
+  "email_usuario": "simulador_juez_1779197217@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:57.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6521cea2ede5c19bcc40"
+  },
+  "email_usuario": "simulador_juez_1779197217@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:26:57.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6543cea2ede5c19bcc42"
+  },
+  "email_usuario": "simulador_juez_1779197251@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:27:31.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6543cea2ede5c19bcc43"
+  },
+  "email_usuario": "simulador_juez_1779197251@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:27:31.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6555cea2ede5c19bcc45"
+  },
+  "email_usuario": "simulador_juez_1779197269@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:27:49.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6555cea2ede5c19bcc46"
+  },
+  "email_usuario": "simulador_juez_1779197269@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:27:49.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c657acea2ede5c19bcc48"
+  },
+  "email_usuario": "simulador_juez_1779197306@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:28:26.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c657acea2ede5c19bcc49"
+  },
+  "email_usuario": "simulador_juez_1779197306@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:28:26.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6588cea2ede5c19bcc4b"
+  },
+  "email_usuario": "simulador_juez_1779197320@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:28:40.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6588cea2ede5c19bcc4c"
+  },
+  "email_usuario": "simulador_juez_1779197320@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:28:40.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6597cea2ede5c19bcc4e"
+  },
+  "email_usuario": "simulador_juez_1779197335@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:28:55.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6597cea2ede5c19bcc4f"
+  },
+  "email_usuario": "simulador_juez_1779197335@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:28:55.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65bbcea2ede5c19bcc51"
+  },
+  "email_usuario": "simulador_juez_1779197371@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:29:31.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65bbcea2ede5c19bcc52"
+  },
+  "email_usuario": "simulador_juez_1779197371@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:29:31.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65eecea2ede5c19bcc54"
+  },
+  "email_usuario": "simulador_juez_1779197422@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:30:22.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65eecea2ede5c19bcc55"
+  },
+  "email_usuario": "simulador_juez_1779197422@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:30:22.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65fdcea2ede5c19bcc57"
+  },
+  "email_usuario": "simulador_juez_1779197437@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:30:37.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c65fdcea2ede5c19bcc58"
+  },
+  "email_usuario": "simulador_juez_1779197437@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:30:37.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6622cea2ede5c19bcc5a"
+  },
+  "email_usuario": "simulador_juez_1779197474@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:31:14.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6622cea2ede5c19bcc5b"
+  },
+  "email_usuario": "simulador_juez_1779197474@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:31:14.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6631cea2ede5c19bcc5d"
+  },
+  "email_usuario": "simulador_juez_1779197489@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:31:29.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6631cea2ede5c19bcc5e"
+  },
+  "email_usuario": "simulador_juez_1779197489@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:31:29.604Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6658cea2ede5c19bcc60"
+  },
+  "email_usuario": "simulador_juez_1779197528@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:32:08.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6658cea2ede5c19bcc61"
+  },
+  "email_usuario": "simulador_juez_1779197528@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:32:08.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6679cea2ede5c19bcc63"
+  },
+  "email_usuario": "simulador_juez_1779197561@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:32:41.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6679cea2ede5c19bcc64"
+  },
+  "email_usuario": "simulador_juez_1779197561@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:32:41.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6689cea2ede5c19bcc66"
+  },
+  "email_usuario": "simulador_juez_1779197577@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:32:57.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6689cea2ede5c19bcc67"
+  },
+  "email_usuario": "simulador_juez_1779197577@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:32:57.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66a6cea2ede5c19bcc69"
+  },
+  "email_usuario": "simulador_juez_1779197606@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:33:26.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66a6cea2ede5c19bcc6a"
+  },
+  "email_usuario": "simulador_juez_1779197606@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:33:26.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66c6cea2ede5c19bcc6c"
+  },
+  "email_usuario": "simulador_juez_1779197638@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:33:58.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66c6cea2ede5c19bcc6d"
+  },
+  "email_usuario": "simulador_juez_1779197638@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:33:58.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66d3cea2ede5c19bcc6f"
+  },
+  "email_usuario": "simulador_juez_1779197651@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:34:11.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66d3cea2ede5c19bcc70"
+  },
+  "email_usuario": "simulador_juez_1779197651@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:34:11.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66e4cea2ede5c19bcc72"
+  },
+  "email_usuario": "simulador_juez_1779197668@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:34:28.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66e4cea2ede5c19bcc73"
+  },
+  "email_usuario": "simulador_juez_1779197668@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:34:28.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66f5cea2ede5c19bcc75"
+  },
+  "email_usuario": "simulador_juez_1779197685@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:34:45.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c66f5cea2ede5c19bcc76"
+  },
+  "email_usuario": "simulador_juez_1779197685@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:34:45.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6707cea2ede5c19bcc78"
+  },
+  "email_usuario": "simulador_juez_1779197703@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:35:03.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6707cea2ede5c19bcc79"
+  },
+  "email_usuario": "simulador_juez_1779197703@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:35:03.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6719cea2ede5c19bcc7b"
+  },
+  "email_usuario": "simulador_juez_1779197721@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:35:21.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6719cea2ede5c19bcc7c"
+  },
+  "email_usuario": "simulador_juez_1779197721@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:35:21.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6749cea2ede5c19bcc7e"
+  },
+  "email_usuario": "simulador_juez_1779197769@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:36:09.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6749cea2ede5c19bcc7f"
+  },
+  "email_usuario": "simulador_juez_1779197769@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:36:09.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6774cea2ede5c19bcc81"
+  },
+  "email_usuario": "simulador_juez_1779197812@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:36:52.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6774cea2ede5c19bcc82"
+  },
+  "email_usuario": "simulador_juez_1779197812@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:36:52.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6788cea2ede5c19bcc84"
+  },
+  "email_usuario": "simulador_juez_1779197832@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:37:12.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6788cea2ede5c19bcc85"
+  },
+  "email_usuario": "simulador_juez_1779197832@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:37:12.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6797cea2ede5c19bcc87"
+  },
+  "email_usuario": "simulador_juez_1779197847@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:37:27.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6797cea2ede5c19bcc88"
+  },
+  "email_usuario": "simulador_juez_1779197847@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:37:27.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67adcea2ede5c19bcc8a"
+  },
+  "email_usuario": "simulador_juez_1779197869@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:37:49.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67adcea2ede5c19bcc8b"
+  },
+  "email_usuario": "simulador_juez_1779197869@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:37:49.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67c0cea2ede5c19bcc8d"
+  },
+  "email_usuario": "simulador_juez_1779197888@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:38:08.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67c0cea2ede5c19bcc8e"
+  },
+  "email_usuario": "simulador_juez_1779197888@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:38:08.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67e6cea2ede5c19bcc90"
+  },
+  "email_usuario": "simulador_juez_1779197926@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:38:46.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67e6cea2ede5c19bcc91"
+  },
+  "email_usuario": "simulador_juez_1779197926@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:38:46.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67fccea2ede5c19bcc93"
+  },
+  "email_usuario": "simulador_juez_1779197948@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:39:08.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c67fccea2ede5c19bcc94"
+  },
+  "email_usuario": "simulador_juez_1779197948@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:39:08.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6831cea2ede5c19bcc96"
+  },
+  "email_usuario": "simulador_juez_1779198001@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:40:01.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6831cea2ede5c19bcc97"
+  },
+  "email_usuario": "simulador_juez_1779198001@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:40:01.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c684ecea2ede5c19bcc99"
+  },
+  "email_usuario": "simulador_juez_1779198030@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:40:30.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c684ecea2ede5c19bcc9a"
+  },
+  "email_usuario": "simulador_juez_1779198030@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:40:30.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c685fcea2ede5c19bcc9c"
+  },
+  "email_usuario": "simulador_juez_1779198047@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:40:47.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c685fcea2ede5c19bcc9d"
+  },
+  "email_usuario": "simulador_juez_1779198047@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:40:47.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6888cea2ede5c19bcc9f"
+  },
+  "email_usuario": "simulador_juez_1779198088@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:41:28.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6888cea2ede5c19bcca0"
+  },
+  "email_usuario": "simulador_juez_1779198088@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:41:28.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c68bccea2ede5c19bcca2"
+  },
+  "email_usuario": "simulador_juez_1779198140@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:42:20.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c68bccea2ede5c19bcca3"
+  },
+  "email_usuario": "simulador_juez_1779198140@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:42:20.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c68e4cea2ede5c19bcca5"
+  },
+  "email_usuario": "simulador_juez_1779198180@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:43:00.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c68e4cea2ede5c19bcca6"
+  },
+  "email_usuario": "simulador_juez_1779198180@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:43:00.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c690ccea2ede5c19bcca8"
+  },
+  "email_usuario": "simulador_juez_1779198220@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:43:40.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c690ccea2ede5c19bcca9"
+  },
+  "email_usuario": "simulador_juez_1779198220@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:43:40.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6933cea2ede5c19bccab"
+  },
+  "email_usuario": "simulador_juez_1779198259@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:44:19.060Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6933cea2ede5c19bccac"
+  },
+  "email_usuario": "simulador_juez_1779198259@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:44:19.060Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6965cea2ede5c19bccae"
+  },
+  "email_usuario": "simulador_juez_1779198309@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:45:09.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6965cea2ede5c19bccaf"
+  },
+  "email_usuario": "simulador_juez_1779198309@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:45:09.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6977cea2ede5c19bccb1"
+  },
+  "email_usuario": "simulador_juez_1779198327@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:45:27.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6977cea2ede5c19bccb2"
+  },
+  "email_usuario": "simulador_juez_1779198327@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:45:27.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c698ecea2ede5c19bccb4"
+  },
+  "email_usuario": "simulador_juez_1779198350@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:45:50.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c698ecea2ede5c19bccb5"
+  },
+  "email_usuario": "simulador_juez_1779198350@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:45:50.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69b6cea2ede5c19bccb7"
+  },
+  "email_usuario": "simulador_juez_1779198390@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:46:30.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69b6cea2ede5c19bccb8"
+  },
+  "email_usuario": "simulador_juez_1779198390@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:46:30.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69c9cea2ede5c19bccba"
+  },
+  "email_usuario": "simulador_juez_1779198409@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:46:49.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69c9cea2ede5c19bccbb"
+  },
+  "email_usuario": "simulador_juez_1779198409@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:46:49.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69ffcea2ede5c19bccbd"
+  },
+  "email_usuario": "simulador_juez_1779198463@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:47:43.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c69ffcea2ede5c19bccbe"
+  },
+  "email_usuario": "simulador_juez_1779198463@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:47:43.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a1dcea2ede5c19bccc0"
+  },
+  "email_usuario": "simulador_juez_1779198493@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:48:13.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a1dcea2ede5c19bccc1"
+  },
+  "email_usuario": "simulador_juez_1779198493@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:48:13.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a5bcea2ede5c19bccc3"
+  },
+  "email_usuario": "simulador_juez_1779198555@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:49:15.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a5bcea2ede5c19bccc4"
+  },
+  "email_usuario": "simulador_juez_1779198555@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:49:15.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a69cea2ede5c19bccc6"
+  },
+  "email_usuario": "simulador_juez_1779198569@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:49:29.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a69cea2ede5c19bccc7"
+  },
+  "email_usuario": "simulador_juez_1779198569@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:49:29.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a79cea2ede5c19bccc9"
+  },
+  "email_usuario": "simulador_juez_1779198585@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:49:45.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a79cea2ede5c19bccca"
+  },
+  "email_usuario": "simulador_juez_1779198585@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:49:45.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a91cea2ede5c19bcccc"
+  },
+  "email_usuario": "simulador_juez_1779198609@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:50:09.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6a91cea2ede5c19bcccd"
+  },
+  "email_usuario": "simulador_juez_1779198609@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:50:09.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ac5cea2ede5c19bcccf"
+  },
+  "email_usuario": "simulador_juez_1779198661@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:51:01.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ac5cea2ede5c19bccd0"
+  },
+  "email_usuario": "simulador_juez_1779198661@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:51:01.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ad7cea2ede5c19bccd2"
+  },
+  "email_usuario": "simulador_juez_1779198679@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:51:19.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ad7cea2ede5c19bccd3"
+  },
+  "email_usuario": "simulador_juez_1779198679@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:51:19.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6af6cea2ede5c19bccd5"
+  },
+  "email_usuario": "simulador_juez_1779198710@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:51:50.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6af6cea2ede5c19bccd6"
+  },
+  "email_usuario": "simulador_juez_1779198710@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:51:50.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b1bcea2ede5c19bccd8"
+  },
+  "email_usuario": "simulador_juez_1779198747@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:52:27.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b1bcea2ede5c19bccd9"
+  },
+  "email_usuario": "simulador_juez_1779198747@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:52:27.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b3ecea2ede5c19bccdb"
+  },
+  "email_usuario": "simulador_juez_1779198782@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:53:02.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b3ecea2ede5c19bccdc"
+  },
+  "email_usuario": "simulador_juez_1779198782@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:53:02.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b4dcea2ede5c19bccde"
+  },
+  "email_usuario": "simulador_juez_1779198797@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:53:17.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b4dcea2ede5c19bccdf"
+  },
+  "email_usuario": "simulador_juez_1779198797@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:53:17.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b6bcea2ede5c19bcce1"
+  },
+  "email_usuario": "simulador_juez_1779198827@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:53:47.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b6bcea2ede5c19bcce2"
+  },
+  "email_usuario": "simulador_juez_1779198827@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:53:47.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b88cea2ede5c19bcce4"
+  },
+  "email_usuario": "simulador_juez_1779198856@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:54:16.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b88cea2ede5c19bcce5"
+  },
+  "email_usuario": "simulador_juez_1779198856@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:54:16.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b9bcea2ede5c19bcce7"
+  },
+  "email_usuario": "simulador_juez_1779198875@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:54:35.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6b9bcea2ede5c19bcce8"
+  },
+  "email_usuario": "simulador_juez_1779198875@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:54:35.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6bbfcea2ede5c19bccea"
+  },
+  "email_usuario": "simulador_juez_1779198911@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:55:11.531Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6bbfcea2ede5c19bcceb"
+  },
+  "email_usuario": "simulador_juez_1779198911@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:55:11.531Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6be0cea2ede5c19bcced"
+  },
+  "email_usuario": "simulador_juez_1779198944@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:55:44.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6be0cea2ede5c19bccee"
+  },
+  "email_usuario": "simulador_juez_1779198944@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:55:44.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c0bcea2ede5c19bccf0"
+  },
+  "email_usuario": "simulador_juez_1779198987@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:56:27.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c0bcea2ede5c19bccf1"
+  },
+  "email_usuario": "simulador_juez_1779198987@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:56:27.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c2acea2ede5c19bccf3"
+  },
+  "email_usuario": "simulador_juez_1779199018@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:56:58.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c2acea2ede5c19bccf4"
+  },
+  "email_usuario": "simulador_juez_1779199018@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:56:58.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c59cea2ede5c19bccf6"
+  },
+  "email_usuario": "simulador_juez_1779199065@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:57:45.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c59cea2ede5c19bccf7"
+  },
+  "email_usuario": "simulador_juez_1779199065@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:57:45.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c8ecea2ede5c19bccf9"
+  },
+  "email_usuario": "simulador_juez_1779199118@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:58:38.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6c8ecea2ede5c19bccfa"
+  },
+  "email_usuario": "simulador_juez_1779199118@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:58:38.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6cc0cea2ede5c19bccfc"
+  },
+  "email_usuario": "simulador_juez_1779199168@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:59:28.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6cc0cea2ede5c19bccfd"
+  },
+  "email_usuario": "simulador_juez_1779199168@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:59:28.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ccecea2ede5c19bccff"
+  },
+  "email_usuario": "simulador_juez_1779199182@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:59:42.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c6ccecea2ede5c19bcd00"
+  },
+  "email_usuario": "simulador_juez_1779199182@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-19T13:59:42.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7813f2f4e10c57a59ca7"
+  },
+  "email_usuario": "simulador_juez_1779267603@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:00:03.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7813f2f4e10c57a59ca8"
+  },
+  "email_usuario": "simulador_juez_1779267603@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:00:03.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7831f2f4e10c57a59caa"
+  },
+  "email_usuario": "simulador_juez_1779267633@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:00:33.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7831f2f4e10c57a59cab"
+  },
+  "email_usuario": "simulador_juez_1779267633@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:00:33.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7841f2f4e10c57a59cad"
+  },
+  "email_usuario": "simulador_juez_1779267649@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:00:49.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7841f2f4e10c57a59cae"
+  },
+  "email_usuario": "simulador_juez_1779267649@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:00:49.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d785af2f4e10c57a59cb1"
+  },
+  "email_usuario": "simulador_juez_1779267674@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:01:14.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d785af2f4e10c57a59cb0"
+  },
+  "email_usuario": "simulador_juez_1779267674@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:01:14.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7869f2f4e10c57a59cb3"
+  },
+  "email_usuario": "simulador_juez_1779267689@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:01:29.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7869f2f4e10c57a59cb4"
+  },
+  "email_usuario": "simulador_juez_1779267689@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:01:29.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d788df2f4e10c57a59cb7"
+  },
+  "email_usuario": "simulador_juez_1779267725@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:02:05.032Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d788df2f4e10c57a59cb6"
+  },
+  "email_usuario": "simulador_juez_1779267725@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:02:05.032Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78c0f2f4e10c57a59cb9"
+  },
+  "email_usuario": "simulador_juez_1779267776@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:02:56.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78c0f2f4e10c57a59cba"
+  },
+  "email_usuario": "simulador_juez_1779267776@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:02:56.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78d0f2f4e10c57a59cbd"
+  },
+  "email_usuario": "simulador_juez_1779267792@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:03:12.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78d0f2f4e10c57a59cbc"
+  },
+  "email_usuario": "simulador_juez_1779267792@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:03:12.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78edf2f4e10c57a59cc0"
+  },
+  "email_usuario": "simulador_juez_1779267821@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:03:41.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d78edf2f4e10c57a59cbf"
+  },
+  "email_usuario": "simulador_juez_1779267821@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:03:41.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d791bf2f4e10c57a59cc2"
+  },
+  "email_usuario": "simulador_juez_1779267867@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:04:27.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d791bf2f4e10c57a59cc3"
+  },
+  "email_usuario": "simulador_juez_1779267867@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:04:27.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7929f2f4e10c57a59cc6"
+  },
+  "email_usuario": "simulador_juez_1779267881@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:04:41.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7929f2f4e10c57a59cc5"
+  },
+  "email_usuario": "simulador_juez_1779267881@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:04:41.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d794ff2f4e10c57a59cc8"
+  },
+  "email_usuario": "simulador_juez_1779267919@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:05:19.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d794ff2f4e10c57a59cc9"
+  },
+  "email_usuario": "simulador_juez_1779267919@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:05:19.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d795ff2f4e10c57a59ccc"
+  },
+  "email_usuario": "simulador_juez_1779267935@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:05:35.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d795ff2f4e10c57a59ccb"
+  },
+  "email_usuario": "simulador_juez_1779267935@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:05:35.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d796ff2f4e10c57a59ccf"
+  },
+  "email_usuario": "simulador_juez_1779267951@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:05:51.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d796ff2f4e10c57a59cce"
+  },
+  "email_usuario": "simulador_juez_1779267951@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:05:51.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d798cf2f4e10c57a59cd2"
+  },
+  "email_usuario": "simulador_juez_1779267980@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:06:20.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d798cf2f4e10c57a59cd1"
+  },
+  "email_usuario": "simulador_juez_1779267980@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:06:20.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d799cf2f4e10c57a59cd5"
+  },
+  "email_usuario": "simulador_juez_1779267996@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:06:36.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d799cf2f4e10c57a59cd4"
+  },
+  "email_usuario": "simulador_juez_1779267996@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:06:36.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79adf2f4e10c57a59cd7"
+  },
+  "email_usuario": "simulador_juez_1779268013@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:06:53.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79adf2f4e10c57a59cd8"
+  },
+  "email_usuario": "simulador_juez_1779268013@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:06:53.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79d5f2f4e10c57a59cda"
+  },
+  "email_usuario": "simulador_juez_1779268053@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:07:33.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79d5f2f4e10c57a59cdb"
+  },
+  "email_usuario": "simulador_juez_1779268053@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:07:33.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79e3f2f4e10c57a59cde"
+  },
+  "email_usuario": "simulador_juez_1779268067@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:07:47.925Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d79e3f2f4e10c57a59cdd"
+  },
+  "email_usuario": "simulador_juez_1779268067@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:07:47.925Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a12f2f4e10c57a59ce1"
+  },
+  "email_usuario": "simulador_juez_1779268114@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:08:34.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a12f2f4e10c57a59ce0"
+  },
+  "email_usuario": "simulador_juez_1779268114@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:08:34.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a23f2f4e10c57a59ce4"
+  },
+  "email_usuario": "simulador_juez_1779268131@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:08:51.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a23f2f4e10c57a59ce3"
+  },
+  "email_usuario": "simulador_juez_1779268131@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:08:51.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a4df2f4e10c57a59ce6"
+  },
+  "email_usuario": "simulador_juez_1779268173@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:09:33.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a4df2f4e10c57a59ce7"
+  },
+  "email_usuario": "simulador_juez_1779268173@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:09:33.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a70f2f4e10c57a59ce9"
+  },
+  "email_usuario": "simulador_juez_1779268208@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:10:08.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a70f2f4e10c57a59cea"
+  },
+  "email_usuario": "simulador_juez_1779268208@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:10:08.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a8cf2f4e10c57a59ced"
+  },
+  "email_usuario": "simulador_juez_1779268236@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:10:36.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a8cf2f4e10c57a59cec"
+  },
+  "email_usuario": "simulador_juez_1779268236@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:10:36.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a9bf2f4e10c57a59cef"
+  },
+  "email_usuario": "simulador_juez_1779268251@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:10:51.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7a9bf2f4e10c57a59cf0"
+  },
+  "email_usuario": "simulador_juez_1779268251@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:10:51.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7aaff2f4e10c57a59cf2"
+  },
+  "email_usuario": "simulador_juez_1779268271@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:11:11.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7aaff2f4e10c57a59cf3"
+  },
+  "email_usuario": "simulador_juez_1779268271@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:11:11.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7abcf2f4e10c57a59cf5"
+  },
+  "email_usuario": "simulador_juez_1779268284@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:11:24.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7abcf2f4e10c57a59cf6"
+  },
+  "email_usuario": "simulador_juez_1779268284@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:11:24.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7addf2f4e10c57a59cf8"
+  },
+  "email_usuario": "simulador_juez_1779268317@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:11:57.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7addf2f4e10c57a59cf9"
+  },
+  "email_usuario": "simulador_juez_1779268317@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:11:57.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7aebf2f4e10c57a59cfb"
+  },
+  "email_usuario": "simulador_juez_1779268331@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:12:11.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7aebf2f4e10c57a59cfc"
+  },
+  "email_usuario": "simulador_juez_1779268331@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:12:11.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b1ef2f4e10c57a59cff"
+  },
+  "email_usuario": "simulador_juez_1779268382@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:13:02.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b1ef2f4e10c57a59cfe"
+  },
+  "email_usuario": "simulador_juez_1779268382@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:13:02.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b31f2f4e10c57a59d02"
+  },
+  "email_usuario": "simulador_juez_1779268401@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:13:21.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b31f2f4e10c57a59d01"
+  },
+  "email_usuario": "simulador_juez_1779268401@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:13:21.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b5af2f4e10c57a59d05"
+  },
+  "email_usuario": "simulador_juez_1779268442@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:02.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b5af2f4e10c57a59d04"
+  },
+  "email_usuario": "simulador_juez_1779268442@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:02.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b6af2f4e10c57a59d07"
+  },
+  "email_usuario": "simulador_juez_1779268458@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:18.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b6af2f4e10c57a59d08"
+  },
+  "email_usuario": "simulador_juez_1779268458@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:18.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b82f2f4e10c57a59d0a"
+  },
+  "email_usuario": "simulador_juez_1779268482@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:42.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b82f2f4e10c57a59d0b"
+  },
+  "email_usuario": "simulador_juez_1779268482@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:42.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b92f2f4e10c57a59d0d"
+  },
+  "email_usuario": "simulador_juez_1779268498@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:58.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7b92f2f4e10c57a59d0e"
+  },
+  "email_usuario": "simulador_juez_1779268498@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:14:58.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7baef2f4e10c57a59d10"
+  },
+  "email_usuario": "simulador_juez_1779268526@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:15:26.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7baef2f4e10c57a59d11"
+  },
+  "email_usuario": "simulador_juez_1779268526@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:15:26.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7bbef2f4e10c57a59d13"
+  },
+  "email_usuario": "simulador_juez_1779268542@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:15:42.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7bbef2f4e10c57a59d14"
+  },
+  "email_usuario": "simulador_juez_1779268542@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:15:42.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7becf2f4e10c57a59d16"
+  },
+  "email_usuario": "simulador_juez_1779268588@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:16:28.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7becf2f4e10c57a59d17"
+  },
+  "email_usuario": "simulador_juez_1779268588@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:16:28.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c02f2f4e10c57a59d1a"
+  },
+  "email_usuario": "simulador_juez_1779268610@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:16:50.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c02f2f4e10c57a59d19"
+  },
+  "email_usuario": "simulador_juez_1779268610@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:16:50.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c2af2f4e10c57a59d1d"
+  },
+  "email_usuario": "simulador_juez_1779268650@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:17:30.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c2af2f4e10c57a59d1c"
+  },
+  "email_usuario": "simulador_juez_1779268650@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:17:30.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c38f2f4e10c57a59d20"
+  },
+  "email_usuario": "simulador_juez_1779268664@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:17:44.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c38f2f4e10c57a59d1f"
+  },
+  "email_usuario": "simulador_juez_1779268664@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:17:44.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c45f2f4e10c57a59d22"
+  },
+  "email_usuario": "simulador_juez_1779268677@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:17:57.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c45f2f4e10c57a59d23"
+  },
+  "email_usuario": "simulador_juez_1779268677@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:17:57.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c5ef2f4e10c57a59d25"
+  },
+  "email_usuario": "simulador_juez_1779268702@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:18:22.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c5ef2f4e10c57a59d26"
+  },
+  "email_usuario": "simulador_juez_1779268702@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:18:22.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c6df2f4e10c57a59d29"
+  },
+  "email_usuario": "simulador_juez_1779268717@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:18:37.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c6df2f4e10c57a59d28"
+  },
+  "email_usuario": "simulador_juez_1779268717@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:18:37.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c87f2f4e10c57a59d2b"
+  },
+  "email_usuario": "simulador_juez_1779268743@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:19:03.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c87f2f4e10c57a59d2c"
+  },
+  "email_usuario": "simulador_juez_1779268743@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:19:03.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c96f2f4e10c57a59d2e"
+  },
+  "email_usuario": "simulador_juez_1779268758@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:19:18.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7c96f2f4e10c57a59d2f"
+  },
+  "email_usuario": "simulador_juez_1779268758@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:19:18.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cb4f2f4e10c57a59d31"
+  },
+  "email_usuario": "simulador_juez_1779268788@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:19:48.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cb4f2f4e10c57a59d32"
+  },
+  "email_usuario": "simulador_juez_1779268788@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:19:48.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cd7f2f4e10c57a59d34"
+  },
+  "email_usuario": "simulador_juez_1779268823@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:20:23.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cd7f2f4e10c57a59d35"
+  },
+  "email_usuario": "simulador_juez_1779268823@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:20:23.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cf2f2f4e10c57a59d38"
+  },
+  "email_usuario": "simulador_juez_1779268850@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:20:50.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7cf2f2f4e10c57a59d37"
+  },
+  "email_usuario": "simulador_juez_1779268850@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:20:50.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d01f2f4e10c57a59d3a"
+  },
+  "email_usuario": "simulador_juez_1779268865@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:21:05.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d01f2f4e10c57a59d3b"
+  },
+  "email_usuario": "simulador_juez_1779268865@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:21:05.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d0ff2f4e10c57a59d3d"
+  },
+  "email_usuario": "simulador_juez_1779268879@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:21:19.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d0ff2f4e10c57a59d3e"
+  },
+  "email_usuario": "simulador_juez_1779268879@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:21:19.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d3ef2f4e10c57a59d40"
+  },
+  "email_usuario": "simulador_juez_1779268926@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:22:06.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d3ef2f4e10c57a59d41"
+  },
+  "email_usuario": "simulador_juez_1779268926@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:22:06.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d66f2f4e10c57a59d43"
+  },
+  "email_usuario": "simulador_juez_1779268966@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:22:46.194Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d66f2f4e10c57a59d44"
+  },
+  "email_usuario": "simulador_juez_1779268966@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:22:46.194Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d73f2f4e10c57a59d46"
+  },
+  "email_usuario": "simulador_juez_1779268979@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:22:59.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d73f2f4e10c57a59d47"
+  },
+  "email_usuario": "simulador_juez_1779268979@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:22:59.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d80f2f4e10c57a59d49"
+  },
+  "email_usuario": "simulador_juez_1779268992@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:23:12.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d80f2f4e10c57a59d4a"
+  },
+  "email_usuario": "simulador_juez_1779268992@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:23:12.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d8cf2f4e10c57a59d4c"
+  },
+  "email_usuario": "simulador_juez_1779269004@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:23:24.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7d8cf2f4e10c57a59d4d"
+  },
+  "email_usuario": "simulador_juez_1779269004@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:23:24.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7db4f2f4e10c57a59d4f"
+  },
+  "email_usuario": "simulador_juez_1779269044@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:24:04.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7db4f2f4e10c57a59d50"
+  },
+  "email_usuario": "simulador_juez_1779269044@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:24:04.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7de0f2f4e10c57a59d53"
+  },
+  "email_usuario": "simulador_juez_1779269088@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:24:48.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7de0f2f4e10c57a59d52"
+  },
+  "email_usuario": "simulador_juez_1779269088@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:24:48.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7deff2f4e10c57a59d56"
+  },
+  "email_usuario": "simulador_juez_1779269103@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:25:03.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7deff2f4e10c57a59d55"
+  },
+  "email_usuario": "simulador_juez_1779269103@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:25:03.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e0cf2f4e10c57a59d58"
+  },
+  "email_usuario": "simulador_juez_1779269132@tfg.com",
+  "origen": "knn",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:25:32.289Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e0cf2f4e10c57a59d59"
+  },
+  "email_usuario": "simulador_juez_1779269132@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:25:32.289Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e18f2f4e10c57a59d5c"
+  },
+  "email_usuario": "simulador_juez_1779269144@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:25:44.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e18f2f4e10c57a59d5b"
+  },
+  "email_usuario": "simulador_juez_1779269144@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:25:44.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e32f2f4e10c57a59d5e"
+  },
+  "email_usuario": "simulador_juez_1779269170@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:26:10.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e32f2f4e10c57a59d5f"
+  },
+  "email_usuario": "simulador_juez_1779269170@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:26:10.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e41f2f4e10c57a59d61"
+  },
+  "email_usuario": "simulador_juez_1779269185@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:26:25.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e41f2f4e10c57a59d62"
+  },
+  "email_usuario": "simulador_juez_1779269185@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:26:25.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e58f2f4e10c57a59d64"
+  },
+  "email_usuario": "simulador_juez_1779269208@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:26:48.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e58f2f4e10c57a59d65"
+  },
+  "email_usuario": "simulador_juez_1779269208@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:26:48.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e77f2f4e10c57a59d67"
+  },
+  "email_usuario": "simulador_juez_1779269239@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:27:19.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e77f2f4e10c57a59d68"
+  },
+  "email_usuario": "simulador_juez_1779269239@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:27:19.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e9ef2f4e10c57a59d6b"
+  },
+  "email_usuario": "simulador_juez_1779269278@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:27:58.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7e9ef2f4e10c57a59d6a"
+  },
+  "email_usuario": "simulador_juez_1779269278@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:27:58.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7eaff2f4e10c57a59d6d"
+  },
+  "email_usuario": "simulador_juez_1779269295@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:28:15.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7eaff2f4e10c57a59d6e"
+  },
+  "email_usuario": "simulador_juez_1779269295@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:28:15.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7ec1f2f4e10c57a59d70"
+  },
+  "email_usuario": "simulador_juez_1779269313@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:28:33.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7ec1f2f4e10c57a59d71"
+  },
+  "email_usuario": "simulador_juez_1779269313@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:28:33.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7ee1f2f4e10c57a59d74"
+  },
+  "email_usuario": "simulador_juez_1779269345@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:29:05.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7ee1f2f4e10c57a59d73"
+  },
+  "email_usuario": "simulador_juez_1779269345@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:29:05.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7eeef2f4e10c57a59d76"
+  },
+  "email_usuario": "simulador_juez_1779269358@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:29:18.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7eeef2f4e10c57a59d77"
+  },
+  "email_usuario": "simulador_juez_1779269358@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:29:18.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f12f2f4e10c57a59d79"
+  },
+  "email_usuario": "simulador_juez_1779269394@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:29:54.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f12f2f4e10c57a59d7a"
+  },
+  "email_usuario": "simulador_juez_1779269394@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:29:54.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f34f2f4e10c57a59d7c"
+  },
+  "email_usuario": "simulador_juez_1779269428@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:30:28.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f34f2f4e10c57a59d7d"
+  },
+  "email_usuario": "simulador_juez_1779269428@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:30:28.849Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f42f2f4e10c57a59d7f"
+  },
+  "email_usuario": "simulador_juez_1779269442@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:30:42.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f42f2f4e10c57a59d80"
+  },
+  "email_usuario": "simulador_juez_1779269442@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:30:42.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f4ff2f4e10c57a59d83"
+  },
+  "email_usuario": "simulador_juez_1779269455@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:30:55.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f4ff2f4e10c57a59d82"
+  },
+  "email_usuario": "simulador_juez_1779269455@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:30:55.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f5df2f4e10c57a59d86"
+  },
+  "email_usuario": "simulador_juez_1779269469@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:31:09.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f5df2f4e10c57a59d85"
+  },
+  "email_usuario": "simulador_juez_1779269469@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:31:09.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f85f2f4e10c57a59d89"
+  },
+  "email_usuario": "simulador_juez_1779269509@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:31:49.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f85f2f4e10c57a59d88"
+  },
+  "email_usuario": "simulador_juez_1779269509@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:31:49.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f9bf2f4e10c57a59d8b"
+  },
+  "email_usuario": "simulador_juez_1779269531@tfg.com",
+  "origen": "ia",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:32:11.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7f9bf2f4e10c57a59d8c"
+  },
+  "email_usuario": "simulador_juez_1779269531@tfg.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:32:11.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fb0f2f4e10c57a59d8f"
+  },
+  "email_usuario": "simulador_juez_1779269552@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:32:32.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fb0f2f4e10c57a59d8e"
+  },
+  "email_usuario": "simulador_juez_1779269552@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:32:32.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fc5f2f4e10c57a59d92"
+  },
+  "email_usuario": "simulador_juez_1779269573@tfg.com",
+  "origen": "ia",
+  "puntuacion": 5,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:32:53.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fc5f2f4e10c57a59d91"
+  },
+  "email_usuario": "simulador_juez_1779269573@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:32:53.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fe2f2f4e10c57a59d94"
+  },
+  "email_usuario": "simulador_juez_1779269602@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:33:22.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d7fe2f2f4e10c57a59d95"
+  },
+  "email_usuario": "simulador_juez_1779269602@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:33:22.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8006f2f4e10c57a59d97"
+  },
+  "email_usuario": "simulador_juez_1779269638@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:33:58.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8006f2f4e10c57a59d98"
+  },
+  "email_usuario": "simulador_juez_1779269638@tfg.com",
+  "origen": "ia",
+  "puntuacion": 1,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:33:58.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8014f2f4e10c57a59d9a"
+  },
+  "email_usuario": "simulador_juez_1779269652@tfg.com",
+  "origen": "ia",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:34:12.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8014f2f4e10c57a59d9b"
+  },
+  "email_usuario": "simulador_juez_1779269652@tfg.com",
+  "origen": "knn",
+  "puntuacion": 3,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:34:12.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8038f2f4e10c57a59d9d"
+  },
+  "email_usuario": "simulador_juez_1779269688@tfg.com",
+  "origen": "ia",
+  "puntuacion": 2,
+  "elegido": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:34:48.620Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d8038f2f4e10c57a59d9e"
+  },
+  "email_usuario": "simulador_juez_1779269688@tfg.com",
+  "origen": "knn",
+  "puntuacion": 4,
+  "elegido": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T09:34:48.620Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0eb043e6ee1baaadec7a2a"
+  },
+  "email_usuario": "vero@test.com",
+  "origen": "knn",
+  "puntuacion": 5,
+  "fase": 2,
+  "fecha_voto": {
+    "$date": "2026-05-21T07:12:03.922Z"
+  }
+}]
